@@ -1,0 +1,6 @@
+{
+  "delay": 2000,
+  "ignore": ["*.log", "*.txt"],
+  "verbose": false,
+  "watch": ["*.js", "!databricksService.js"]
+}

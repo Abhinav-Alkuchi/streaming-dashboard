@@ -1,0 +1,2 @@
+"id","timestamp","title","description","eventType","platform","sotType","sotProperties","jiraTicket","status","comments","attachments"
+"STAG-1762860138626-c8d0zgade","2025-11-11T11:22:18.626Z","test","test","tst","Desktop,Android,iOS","tst","sku quantity;Page name in code;category id","https://jira.sephora.com/browse/SA-6172","submitted","test",""
