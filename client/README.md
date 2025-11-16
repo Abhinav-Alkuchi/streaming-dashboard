@@ -1,4 +1,4 @@
-# streaming-dashboard
+Stream Dashboard Project
 ========================
 
 This document provides instructions for setting up and running the Stream Dashboard project.

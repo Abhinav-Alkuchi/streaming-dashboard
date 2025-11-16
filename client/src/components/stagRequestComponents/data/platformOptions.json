@@ -1,0 +1,17 @@
+[
+  {
+    "optionId": 1,
+    "optionKey": "ios",
+    "optionName": "iOS"
+  },
+  {
+    "optionId": 2,
+    "optionKey": "android",
+    "optionName": "Android"
+  },
+  {
+    "optionId": 3,
+    "optionKey": "desktop",
+    "optionName": "Desktop"
+  }
+]

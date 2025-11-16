@@ -1,0 +1,155 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --background: 222 47% 11%;
+    --foreground: 210 40% 98%;
+    --card: 222 47% 14%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222 47% 14%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 189 100% 62%;
+    --primary-foreground: 222 47% 11%;
+    --secondary: 271 91% 65%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 222 47% 20%;
+    --muted-foreground: 215 20% 65%;
+    --accent: 142 76% 56%;
+    --accent-foreground: 222 47% 11%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 222 47% 20%;
+    --input: 222 47% 20%;
+    --ring: 189 100% 62%;
+    --radius: .75rem;
+    --chart-1: 189 100% 62%;
+    --chart-2: 271 91% 65%;
+    --chart-3: 142 76% 56%;
+    --chart-4: 31 97% 72%;
+    --chart-5: 340 82% 52%;
+
+    /* Gradients */
+    --gradient-primary: linear-gradient(135deg, hsl(189 100% 62%) 0%, hsl(271 91% 65%) 100%);
+    --gradient-chart: linear-gradient(180deg, hsl(189 100% 62% / 0.2) 0%, hsl(189 100% 62% / 0) 100%);
+
+    /* Shadows */
+    --shadow-glow: 0 0 40px hsl(189 100% 62% / 0.3);
+    --shadow-card: 0 4px 20px hsl(222 47% 4% / 0.4);
+    --control-panel-bg: rgba(34, 45, 71, 0.6);
+    --control-panel-shadow: 0 0 8px hsl(222 47% 4% / 0.6);
+  }
+
+  body {
+    @apply bg-[hsl(var(--background))] text-[hsl(var(--foreground))];
+    font-family: sans-serif;
+  }
+}
+
+@layer utilities {
+  * {
+    border-color: hsl(var(--border));
+  }
+
+  .controlPanel {
+    background-color: var(--control-panel-bg);
+    box-shadow: var(--control-panel-shadow);
+  }
+
+  .backdrop-blur-sm {
+    --tw-backdrop-blur: blur(4px);
+    --tw-backdrop-brightness: var(--accent);
+    --tw-backdrop-contrast: var(--accent);
+    --tw-backdrop-grayscale: var(--accent);
+    --tw-backdrop-hue-rotate: var(--accent);
+    --tw-backdrop-invert: var(--accent);
+    --tw-backdrop-opacity: var(--accent);
+    --tw-backdrop-saturate: var(--accent);
+    --tw-backdrop-sepia: var(--accent);
+    backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);
+  }
+
+  .bg-card\/50 {
+    background-color: hsl(var(--card) / .5);
+  }
+
+  .border-border\/50 {
+    border-color: hsl(var(--border) / .5);
+  }
+
+  .bg-background {
+    background-color: hsl(var(--background));
+  }
+
+  .bg-gradient-primary {
+    background-image: var(--gradient-primary);
+  }
+
+  .bg-gradient-chart {
+    background-image: var(--gradient-chart);
+  }
+
+  .shadow-glow {
+    box-shadow: var(--shadow-glow);
+  }
+
+  .shadow-card {
+    box-shadow: var(--shadow-card);
+  }
+
+  .icon-chart-1 {
+    color: hsl(var(--chart-1));
+  }
+
+  .icon-chart-2 {
+    color: hsl(var(--chart-2));
+  }
+
+  .bg-primary\/10 {
+    background-color: hsl(var(--primary) / .1);
+  }
+
+  .border-primary\/20 {
+    border-color: hsl(var(--primary) / .2);
+  }
+
+  .text-muted-foreground {
+    color: hsl(var(--muted-foreground));
+  }
+  /* Add this to your global CSS or in a style tag */
+@keyframes countUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-count {
+  animation: countUp 0.6s ease-out forwards;
+}
+
+.metric-value {
+  transition: all 0.3s ease;
+}
+}
+
+#map-tooltip {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-size: 12px;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s;
+  z-index: 1000;
+}
+
+.state:hover {
+  stroke-width: 2px;
+  stroke: #000;
+}

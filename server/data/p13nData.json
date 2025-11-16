@@ -1,0 +1,496 @@
+{
+  "2025-11-03": {
+    "global_persistentbanner1_merchsale_animation_ohsnap0825_FY254479_broadcast_us_app_banner_090825": {
+      "content_type": "Banner",
+      "media": "unknown",
+      "sample_referrer_path": "global_persistentbanner1_merchsale_animation_ohsnap0825_FY254479_broadcast_us_app_banner_090825:45:::Banner=2711273,14576471",
+      "platforms": {
+        "iphone app": 2711273,
+        "android app": 2421360
+      }
+    },
+    "beautyoffers_birthdaybanner_FY254827_070125_q3_us_ca": {
+      "content_type": "Banner",
+      "media": "3gkvWlbaaV4M405UM79qU",
+      "sample_referrer_path": "beautyoffers_birthdaybanner_FY254827_070125_q3_us_ca:49:::Banner=2762599,2916864",
+      "platforms": {
+        "iphone app": 1720020,
+        "android app": 2808806
+      }
+    },
+    "homepage_marketingbanner1_appearlyaccess_animation_holidaypreview0925_FY254279_broadcast_us_rwd_banner_091025_sfk": {
+      "content_type": "BannerList",
+      "media": "4SN7RbCCidrpz7kOXbZt7X",
+      "sample_referrer_path": "2888519::homepage_productlist_SellingFast_us_app_092022_ios:33:ProductList=2888519;homepage_marketingbanner1_appearlyaccess_animation_holidaypreview0925_FY254279_broadcast_us_rwd_banner_091025_sfk:24:homepage_multi-banner_marketingbanner_us_rwd_092022:3719:BannerList=2907178,361038",
+      "platforms": {
+        "iphone app": 361038,
+        "android app": 2904100
+      }
+    },
+    "Birthday-Banner-Basket": {
+      "content_type": "Banner",
+      "media": "3bozzLU5zQkxawaNy5qSkC",
+      "sample_referrer_path": "Birthday-Banner-Basket:243:::Banner=2848992,357511",
+      "platforms": {
+        "android app": 2848992
+      }
+    },
+    "homepage_marketingbanner1_appearlyaccess_animation_holidaypreview0925_FY254279_broadcast_ca_rwd_banner_091025_sfk": {
+      "content_type": "BannerList",
+      "media": "1QOefDR0YbGWBYtVLm25h1",
+      "sample_referrer_path": "homepage_marketingbanner1_appearlyaccess_animation_holidaypreview0925_FY254279_broadcast_ca_rwd_banner_091025_sfk:10:homepage_multi-banner_marketingbanner_ca_rwd_092022:3018:BannerList=2908416;2893626::layout_new_toplevel_CA::LayoutProductGrid=2893626,316700",
+      "platforms": {
+        "iphone app": 316700,
+        "android app": 2737757
+      }
+    },
+    "global_persistentbanner1_promomab_program_lapsed20p0800718_targeted_us_ca_rwd_banner": {
+      "content_type": "Banner",
+      "media": "unknown",
+      "sample_referrer_path": "global_persistentbanner1_promomab_program_lapsed20p0800718_targeted_us_ca_rwd_banner:68:::Banner=1607456,276894",
+      "platforms": {
+        "iphone app": 1607456,
+        "android app": 2913283
+      }
+    },
+    "global_persistentbanner1_merchsale_animation_ohsnap0825_FY254479_default_us_ufe_banner_090825": {
+      "content_type": "Banner",
+      "media": "WpEHvIu2zXnXrRFMqqPgS",
+      "sample_referrer_path": "global_persistentbanner1_merchsale_animation_ohsnap0825_FY254479_default_us_ufe_banner_090825:80:n/a:n/a:Banner=2906972,234476",
+      "platforms": {
+        "desktop web": 2906972,
+        "mobile": 2827616,
+        "tablet web": 2906972
+      }
+    },
+    "global_persistentbanner1_promogwp_program_beautyoffers_broadcast_ca_rwd_banner_090825": {
+      "content_type": "Banner",
+      "media": "unknown",
+      "sample_referrer_path": "global_persistentbanner1_promogwp_program_beautyoffers_broadcast_ca_rwd_banner_090825:30:::Banner=2828044,214245",
+      "platforms": {
+        "iphone app": 2828044,
+        "android app": 2109718,
+        "desktop web": 2895969
+      }
+    },
+    "homepage_marketingbanner2_multi-world_slotting_minisunder25_broadcast_us_rwd_banner_090825": {
+      "content_type": "BannerList",
+      "media": "2PsZfeVwV0Zq1tKNBGs9bM",
+      "sample_referrer_path": "homepage_marketingbanner2_multi-world_slotting_minisunder25_broadcast_us_rwd_banner_090825:19:homepage_multi-banner_marketingbanner_us_rwd_092022:3719:BannerList=2344646,209898",
+      "platforms": {
+        "iphone app": 2344646,
+        "android app": 2913374,
+        "desktop web": 2632479
+      }
+    },
+    "SMELLSYUM_FY254054_q3frag0925_090524_Promo_LP_hero_banner_rwd_US": {
+      "content_type": "Banner",
+      "media": "6Vu5iw6KYQRy7ryHDI7WNQ",
+      "sample_referrer_path": "SMELLSYUM_FY254054_q3frag0925_090524_Promo_LP_hero_banner_rwd_US:19:::Banner=2893543,200870",
+      "platforms": {
+        "iphone app": 2893543,
+        "android app": 2909711
+      }
+    },
+    "homepage_slideshow_color_program_septmakeup0925_FY254048_broadcast_us_rwd_banner_090925_expertsbestseller": {
+      "content_type": "BannerList",
+      "media": "1ZW0p8f7EC4pBEKgKztszF",
+      "sample_referrer_path": "homepage_slideshow_color_program_septmakeup0925_FY254048_broadcast_us_rwd_banner_090925_expertsbestseller:24:homepage_multi-banner_slideshow_us_rwd_090324:1275:BannerList=2577914,160479",
+      "platforms": {
+        "iphone app": 2577914,
+        "mobile": 2597359,
+        "desktop web": 2903888
+      }
+    },
+    "homepage_slideshow_promomerch_animation_OHSNAP0825_FY254479_broadcast_us_rwd_banner_091025": {
+      "content_type": "BannerList",
+      "media": "JBwIKRrljP7bew1sJr5Ky",
+      "sample_referrer_path": "homepage_slideshow_promomerch_animation_OHSNAP0825_FY254479_broadcast_us_rwd_banner_091025:6:homepage_multi-banner_slideshow_us_rwd_090324:1275:BannerList=2476158,9620",
+      "platforms": {
+        "iphone app": 2476158
+      }
+    },
+    "homepage_slideshow_skincare_brand-launch_rhode_FY254170_broadcast_us_rwd_banner_090525": {
+      "content_type": "BannerList",
+      "media": "2nsAV9Y89BFKl5XV0Livjy",
+      "sample_referrer_path": "homepage_slideshow_skincare_brand-launch_rhode_FY254170_broadcast_us_rwd_banner_090525:16:homepage_multi-banner_slideshow_us_rwd_090324:1275:BannerList=2898575,109512",
+      "platforms": {
+        "iphone app": 2898575,
+        "desktop web": 2462109
+      }
+    },
+    "beautyoffers_banner_salebanner_rwd_ohsnap0825_FY254479_082925": {
+      "content_type": "Banner",
+      "media": "unknown",
+      "sample_referrer_path": "beautyoffers_banner_salebanner_rwd_ohsnap0825_FY254479_082925:13:::Banner=2816791,101400",
+      "platforms": {
+        "iphone app": 2816791,
+        "android app": 2827608
+      }
+    },
+    "FY253566_Birthday_2025_step1_howitworks": {
+      "content_type": "BannerList",
+      "media": "5zrkdpBWitkljB2FplwPTQ",
+      "sample_referrer_path": "FY253566_Birthday_2025_step1_howitworks:140:BI_Birthday_FY253566_2025_bannerlist_howitworks:10:BannerList=2828051,93648",
+      "platforms": {
+        "iphone app": 2828051
+      }
+    },
+    "global_persistentbanner1_promomab_program_xsellconc20p0800772_targeted_us_ca_rwd_banner": {
+      "content_type": "Banner",
+      "media": "unknown",
+      "sample_referrer_path": "global_persistentbanner1_promomab_program_xsellconc20p0800772_targeted_us_ca_rwd_banner:36:::Banner=2745446,2895423,2895845,2916864",
+      "platforms": {
+        "iphone app": 2745446
+      }
+    },
+    "BI_Birthday_FY253566_2025_Topbanner_Recognized_Noteligible_2.17.25": {
+      "content_type": "Banner",
+      "media": "5i17WaAcWowfyv3f8KAIji",
+      "sample_referrer_path": "BI_Birthday_FY253566_2025_Topbanner_Recognized_Noteligible_2.17.25:123:::Banner=2525202;2893543::::=2893543;beautyoffers_offerbanner_fragrance_brand-launch_multi-brand_FY254054_broadcast_us_rwd_promo_090525_SMELLSYUM:36:beautyoffers_promolist_fragrance_us:273:PromotionList=2909711,78936",
+      "platforms": {
+        "android app": 2525202
+      }
+    },
+    "global_persistentbanner1_promomab_program_xsellfrag15p0800755_targeted_us_ca_rwd_banner": {
+      "content_type": "Banner",
+      "media": "unknown",
+      "sample_referrer_path": "global_persistentbanner1_promomab_program_xsellfrag15p0800755_targeted_us_ca_rwd_banner:51:::Banner=2771533;beautyoffers_offerbanner_promogwp_program_appfest0825_FY254520_smgm_broadcast_ca_app_promo_082025_YAYMORE:35:beautyoffers_promolist_appexclusiveoffers_ca:1052:PromotionList=2575124,77835",
+      "platforms": {
+        "android app": 2771533
+      }
+    },
+    "SMELLSYUM_FY254054_q3frag0925_090524_Promo_LP_hero_banner_rwd_CA": {
+      "content_type": "Banner",
+      "media": "6POjTFNLdIVjv9v0virJRd",
+      "sample_referrer_path": "SMELLSYUM_FY254054_q3frag0925_090524_Promo_LP_hero_banner_rwd_CA:14:::Banner=2913283,115340",
+      "platforms": {
+        "iphone app": 2913283,
+        "android app": 2685386
+      }
+    },
+    "global_persistentbanner1_promomab_program_xsellfrag20p0800725_targeted_us_ca_rwd_banner": {
+      "content_type": "Banner",
+      "media": "unknown",
+      "sample_referrer_path": "global_persistentbanner1_promomab_program_xsellfrag20p0800725_targeted_us_ca_rwd_banner:54:::Banner=2566602,110292",
+      "platforms": {
+        "iphone app": 2566602
+      }
+    },
+    "homepage_slideshow_skincare_brand-launch_rhode_FY254170_broadcast_ca_rwd_banner_090525": {
+      "content_type": "BannerList",
+      "media": "2nsAV9Y89BFKl5XV0Livjy",
+      "sample_referrer_path": "homepage_slideshow_skincare_brand-launch_rhode_FY254170_broadcast_ca_rwd_banner_090525:19:homepage_multi-banner_slideshow_ca_rwd_090324:1105:BannerList=2895936,2791440",
+      "platforms": {
+        "android app": 2895936
+      }
+    },
+    "global_persistentbanner1_promomab_program_xsellbrow20p0800727_targeted_us_ca_rwd_banner": {
+      "content_type": "Banner",
+      "media": "unknown",
+      "sample_referrer_path": "global_persistentbanner1_promomab_program_xsellbrow20p0800727_targeted_us_ca_rwd_banner:41:::Banner=2728186,2217453",
+      "platforms": {
+        "iphone app": 2728186
+      }
+    },
+    "homepage_marketingbanner3_color_slotting_CleanMakeupNewness_broadcast_us_rwd_banner_090825": {
+      "content_type": "BannerList",
+      "media": "32LBwUS8RJQeFdhnm8QGQR",
+      "sample_referrer_path": "homepage_marketingbanner3_color_slotting_CleanMakeupNewness_broadcast_us_rwd_banner_090825:18:homepage_multi-banner_marketingbanner_us_rwd_092022:3719:BannerList=2849925,34412",
+      "platforms": {
+        "iphone app": 2849925
+      }
+    },
+    "FY254386_090125_BIRB_Hero_banner_September": {
+      "content_type": "Banner",
+      "media": "3yQ0igsL0mdZtquAt1b0nx",
+      "sample_referrer_path": "FY254386_090125_BIRB_Hero_banner_September:32:::Banner=2663573,2663565;7179::basket_SAD_recommendedforyou_us-ca_productlist:62:ProductList=2103182;basketfeaturedoffers_offerbanner_promogwp_slotting_broadcast_ca_rwd_promo_MYGIFT:178:beautyoffers_basket_featured_offers_promotions_list_ca:74:PromotionList=2881001",
+      "platforms": {
+        "android app": 2663573
+      }
+    },
+    "beautychallenges_mysterytask_gamification0925_FY254427_trendingonsocial_banner": {
+      "content_type": "Banner",
+      "media": "1wqqO07TXeV1APDGrOcgog",
+      "sample_referrer_path": "beautychallenges_mysterytask_gamification0925_FY254427_trendingonsocial_banner:32:::Banner=2875516,30695",
+      "platforms": {
+        "iphone app": 2875516,
+        "android app": 2888824
+      }
+    },
+    "BI_Birthday_FY253566_2025_Topbanner_Unrecognized_2.17.25": {
+      "content_type": "Banner",
+      "media": "5i17WaAcWowfyv3f8KAIji",
+      "sample_referrer_path": "BI_Birthday_FY253566_2025_Topbanner_Unrecognized_2.17.25:164:::Banner=2685709,30119",
+      "platforms": {
+        "android app": 2685709
+      }
+    },
+    "ppage_autoreplen_promo_apptopbanner_CA_090825_FY254858": {
+      "content_type": "Banner",
+      "media": "unknown",
+      "sample_referrer_path": "ppage_autoreplen_promo_apptopbanner_CA_090825_FY254858:21:::Banner=2734002,27762",
+      "platforms": {
+        "iphone app": 2734002
+      }
+    },
+    "Sephora_samples_bag_LP_Evergreen_Moreways_Banner_BeautyOffers_RWD": {
+      "content_type": "BannerList",
+      "media": "1Ch7aOtkskQRmsE1YKP3K2",
+      "sample_referrer_path": "Sephora_samples_bag_LP_Evergreen_Moreways_Banner_BeautyOffers_RWD:125:Sephora_samples_bag_LP_Evergreen_Moreways_BannerList_rwd_US:30:BannerList=2833",
+      "platforms": {
+        "iphone app": 2833
+      }
+    },
+    "global_persistentbanner1_promomab_program_concealer15percent_targeted_us_ca_rwd_banner": {
+      "content_type": "Banner",
+      "media": "unknown",
+      "sample_referrer_path": "global_persistentbanner1_promomab_program_concealer15percent_targeted_us_ca_rwd_banner:83:::Banner=1478361,16611",
+      "platforms": {
+        "iphone app": 1478361
+      }
+    },
+    "homepage_slideshow_multi-world_slotting_septnewarrivals_broadcast_ca_rwd_banner_091025_v1": {
+      "content_type": "BannerList",
+      "media": "1lB08x8uAngp34c4hg42Wq",
+      "sample_referrer_path": "homepage_slideshow_multi-world_slotting_septnewarrivals_broadcast_ca_rwd_banner_091025_v1:25:homepage_multi-banner_slideshow_ca_rwd_090324:1105:BannerList=2824159,2589844;homepage_marketingbanner2_multi-world_slotting_minisunder35_broadcast_ca_rwd_banner_090825:35:homepage_multi-banner_marketingbanner_ca_rwd_092022:3018:BannerList=1638386",
+      "platforms": {
+        "iphone app": 2824159
+      }
+    },
+    "giftcards_physical_giftcard_banner_FY254367_041125_us": {
+      "content_type": "Banner",
+      "media": "2br8Fs7V0htVxJNolahSyh",
+      "sample_referrer_path": "giftcards_physical_giftcard_banner_FY254367_041125_us:32:::Banner=00570,15235",
+      "platforms": {
+        "android app": 570
+      }
+    },
+    "homepage_marketingbanner2_multi-world_slotting_minisunder35_broadcast_ca_rwd_banner_090825": {
+      "content_type": "BannerList",
+      "media": "4psbfrLLBQuRU2w1FKgTrK",
+      "sample_referrer_path": "homepage_slideshow_multi-world_slotting_septnewarrivals_broadcast_ca_rwd_banner_091025_v1:25:homepage_multi-banner_slideshow_ca_rwd_090324:1105:BannerList=2824159,2589844;homepage_marketingbanner2_multi-world_slotting_minisunder35_broadcast_ca_rwd_banner_090825:35:homepage_multi-banner_marketingbanner_ca_rwd_092022:3018:BannerList=1638386",
+      "platforms": {
+        "iphone app": 2824159
+      }
+    },
+    "shopping_made_easy_buy_online_child_banner_appexclusive": {
+      "content_type": "BannerList",
+      "media": "5co9Gv4cdBf6Xq6Bfs4zfC",
+      "sample_referrer_path": "shopping_made_easy_buy_online_child_banner_appexclusive:258:shopping_made_easy_bannerlist_US_CA_appexclusives:14:BannerList=2871994;2380400::productlist_ohsnap0825_FY254479_day12_090925:10:ProductList=2380400,11620",
+      "platforms": {
+        "android app": 2871994,
+        "iphone app": 2895423
+      }
+    },
+    "FY253566_Birthday_2025_banner1_choosegift": {
+      "content_type": "BannerList",
+      "media": "4aMB2pBBY0Iq3Egnzg9FPh",
+      "sample_referrer_path": "2785293::basket_SAD_recommendedforyou_us-ca_productlist:62:ProductList=2901569;FY253566_Birthday_2025_banner1_choosegift:72:FY253566_Birthday_2025_bannerlist_choosegift_wantmore:12:BannerList=2449072;beautyoffers_offerbanner_hair_brand-launch_curlsmith_broadcast_ca_rwd_promo_090325_CURLSMITH:23:beautyoffers_promolist_myoffers_ca:466:PromotionList=2919355,11552",
+      "platforms": {
+        "android app": 2785293
+      }
+    },
+    "ppage_autoreplen_promo_apptopbanner_US_090825_FY254858": {
+      "content_type": "Banner",
+      "media": "unknown",
+      "sample_referrer_path": "ppage_autoreplen_promo_apptopbanner_US_090825_FY254858:21:::Banner=2406866,10746",
+      "platforms": {
+        "iphone app": 2406866
+      }
+    },
+    "homepage_slideshow_color_program_septmakeup0925_FY254048_broadcast_ca_rwd_banner_090925_expertsbestseller": {
+      "content_type": "BannerList",
+      "media": "1tCQ9bqOGAiCcJQ1raS6bS",
+      "sample_referrer_path": "homepage_slideshow_color_program_septmakeup0925_FY254048_broadcast_ca_rwd_banner_090925_expertsbestseller:15:homepage_multi-banner_slideshow_ca_rwd_090324:1105:BannerList=2605988;basketfeaturedoffers_offerbanner_promogwp_slotting_broadcast_ca_rwd_promo_MYGIFT:178:beautyoffers_basket_featured_offers_promotions_list_ca:74:PromotionList=2732782,9726",
+      "platforms": {
+        "android app": 2605988
+      }
+    },
+    "homepage_slideshow_promomerch_animation_OHSNAP0825_FY254479_broadcast_us_rwd_banner_090725": {
+      "content_type": "BannerList",
+      "media": "JBwIKRrljP7bew1sJr5Ky",
+      "sample_referrer_path": "homepage_slideshow_promomerch_animation_OHSNAP0825_FY254479_broadcast_us_rwd_banner_090725:6:homepage_multi-banner_slideshow_us_rwd_090324:1275:BannerList=2476158,9620",
+      "platforms": {
+        "iphone app": 2476158
+      }
+    },
+    "beautyoffers_banner_topbanner_rwd_ohsnap0825_FY254479_082925": {
+      "content_type": "Banner",
+      "media": "6v239osLv7uQR7H1opqASJ",
+      "sample_referrer_path": "beautyoffers_banner_topbanner_rwd_ohsnap0825_FY254479_082925:18:::Banner=2894426,2697399",
+      "platforms": {
+        "android app": 2894426
+      }
+    },
+    "basket_tooltip_autoreplenish_step3_usca_banner_031424": {
+      "content_type": "Banner",
+      "media": "7l7QsiJW1nyAvMmNWm5EHf",
+      "sample_referrer_path": "basket_tooltip_autoreplenish_step3_usca_banner_031424:416:::Banner=2812998;beautyoffers_offerbanner_promogwp_slotting_broadcast_ca_rwd_promo_090125_GENTLEOIL:11:beautyoffers_promolist_myoffers_ca:466:PromotionList=2914463,7691",
+      "platforms": {
+        "android app": 2812998
+      }
+    },
+    "canjulycomplexion0725_foundation_more_ways_fullcoverage_child_banner": {
+      "content_type": "BannerList",
+      "media": "1Ch7aOtkskQRmsE1YKP3K2",
+      "sample_referrer_path": "canjulycomplexion0725_foundation_more_ways_fullcoverage_child_banner:4:canjulycomplexion0725_best_foundation_more_ways_bannerlist:10:BannerList=2557718,7659",
+      "platforms": {
+        "android app": 2557718
+      }
+    },
+    "foundation0819_best_foundation_find_shade_child_banner": {
+      "content_type": "BannerList",
+      "media": "7uh7BedgQbSalJhM9q7NQ2",
+      "sample_referrer_path": "foundation0819_best_foundation_find_shade_child_banner:218:foundation0819_best_foundation_BannerList :25:BannerList=2697639,7036",
+      "platforms": {
+        "iphone app": 2697639
+      }
+    },
+    "cc_bannerlist1_ccmember_banner_apply_021225": {
+      "content_type": "BannerList",
+      "media": "74L2JpOfEc7TpgWd8jHpEX",
+      "sample_referrer_path": "cc_bannerlist1_ccmember_banner_apply_021225:15:cc_FY243554_CCOPT0724_bannerlist1_bi_birb:4:BannerList=2897049;beautyoffers_offerbanner_fragrance_brand-launch_multi-brand_FY254054_broadcast_us_rwd_promo_090525_SMELLSYUM:36:beautyoffers_promolist_fragrance_us:273:PromotionList=2888410,2909711",
+      "platforms": {
+        "android app": 2897049
+      }
+    },
+    "FY243216_hairstyling0724_effortlessstyling_banner_video_heat_styled_Supermodel_Volume": {
+      "content_type": "BannerList",
+      "media": "55D3hF0XEfTgXOyPC6aLZk",
+      "sample_referrer_path": "2870491::::=2598886,2821338;FY243216_hairstyling0724_effortlessstyling_banner_video_heat_styled_Supermodel_Volume:183:FY243216_hairstyling0724_effortlessstyling_bannerlist_sephorasquad_videolist_US_englishCA:173:BannerList=2581254;beautyoffers_offerbanner_hair_brand-launch_mane_FY254152_broadcast_us_rwd_promo_081325_FREEMANE:28:beautyoffers_promolist_hair_us:346:PromotionList=2901445",
+      "platforms": {
+        "android app": 2870491
+      }
+    },
+    "creditcard_billpay_banner_app": {
+      "content_type": "BannerList",
+      "media": "67rjgMMfCY3cp66EDvJrXn",
+      "sample_referrer_path": "creditcard_billpay_banner_app:7:creditcard_icons_bannerlist_CCholder_app:8:BannerList=2645240,5698",
+      "platforms": {
+        "android app": 2645240,
+        "iphone app": 2916864
+      }
+    },
+    "cc_herobanner_nonCC_021225": {
+      "content_type": "Banner",
+      "media": "1f92C8jlW8Eep1sJiDSCpz",
+      "sample_referrer_path": "cc_herobanner_nonCC_021225:18:::Banner=2835593,5102",
+      "platforms": {
+        "android app": 2835593
+      }
+    },
+    "homepage_slideshow_hair_program_septhair0925_FY254055_broadcast_ca_rwd_banner_090925_v1heatstyling": {
+      "content_type": "BannerList",
+      "media": "6oiu1bWkyKapJ0J8KIzbkk",
+      "sample_referrer_path": "homepage_slideshow_hair_program_septhair0925_FY254055_broadcast_ca_rwd_banner_090925_v1heatstyling:13:homepage_multi-banner_slideshow_ca_rwd_090324:1105:BannerList=2687697,2222438,2916864",
+      "platforms": {
+        "iphone app": 2687697
+      }
+    },
+    "homepage_slideshow_hair_program_septhair0925_FY254055_broadcast_us_rwd_banner_090925_v1heatstyling": {
+      "content_type": "BannerList",
+      "media": "5XeCSYvicDD6j6FXx5hcNV",
+      "sample_referrer_path": "homepage_slideshow_color_program_septmakeup0925_FY254048_broadcast_us_rwd_banner_090925_expertsbestseller:24:homepage_multi-banner_slideshow_us_rwd_090324:1275:BannerList=2114072;2520468::homepage_productlist_ChosenForYou_us_app_092022:23:ProductList=2520468;homepage_slideshow_hair_program_septhair0925_FY254055_broadcast_us_rwd_banner_090925_v1heatstyling:12:homepage_multi-banner_slideshow_us_rwd_090324:1275:BannerList=2906683,4863",
+      "platforms": {
+        "iphone app": 2906683
+      }
+    },
+    "ppage_OHSNAP0825_promo_apptopbanner_us_090925_FY254479_week2_day12": {
+      "content_type": "Banner",
+      "media": "unknown",
+      "sample_referrer_path": "ppage_OHSNAP0825_promo_apptopbanner_us_090925_FY254479_week2_day12:10:::Banner=1415785,3892",
+      "platforms": {
+        "iphone app": 1415785
+      }
+    },
+    "PDP_Sampling_Banner_Middle_Hourglass_091924_FY243492": {
+      "content_type": "Banner",
+      "media": "3HCM9KkLDKvl3zcF9F5uWT",
+      "sample_referrer_path": "PDP_Sampling_Banner_Middle_Hourglass_091924_FY243492:53:::Banner=2895845,2896066,2896116",
+      "platforms": {
+        "iphone app": 2895845
+      }
+    },
+    "Sephora_samples_bag_LP_Evergreen_Moreways_Banner_Gifts_RWD": {
+      "content_type": "BannerList",
+      "media": "1Ch7aOtkskQRmsE1YKP3K2",
+      "sample_referrer_path": "Sephora_samples_bag_LP_Evergreen_Moreways_Banner_Gifts_RWD:66:Sephora_samples_bag_LP_Evergreen_Moreways_BannerList_rwd_US:30:BannerList=2904100;beautyoffers_offerbanner_fragrance_brand-launch_multi-brand_FY254054_broadcast_us_rwd_promo_090525_SMELLSYUM:36:beautyoffers_promolist_myoffers_us:194:PromotionList=2909711,3099",
+      "platforms": {
+        "android app": 2904100
+      }
+    },
+    "Sephora_samples_bag_LP_Evergreen_Moreways_Banner_Bestsellers_RWD": {
+      "content_type": "BannerList",
+      "media": "1Ch7aOtkskQRmsE1YKP3K2",
+      "sample_referrer_path": "Sephora_samples_bag_LP_Evergreen_Moreways_Banner_Bestsellers_RWD:56:Sephora_samples_bag_LP_Evergreen_Moreways_BannerList_rwd_US:30:BannerList=2904571,2867794;beautyoffers_offerbanner_fragrance_brand-launch_multi-brand_FY254054_broadcast_us_rwd_promo_090525_SMELLSYUM:36:beautyoffers_promolist_myoffers_us:194:PromotionList=2909711",
+      "platforms": {
+        "android app": 2904571
+      }
+    },
+    "creditcard_rewards_banner_app": {
+      "content_type": "BannerList",
+      "media": "2mcRfb91lb3NdlqZweEUFf",
+      "sample_referrer_path": "2759330::basket_SAD_under15_us-ca_productlist:163:ProductList=2759330;2804839::shop-happening_productlist_buyitagain:40:ProductList=2804839;2866713::productlist_ohsnap0825_FY254479_day13_091025:11:ProductList=2866713;creditcard_rewards_banner_app:4:creditcard_icons_bannerlist_CCholder_app:8:BannerList=2900652,2849",
+      "platforms": {
+        "android app": 2759330
+      }
+    },
+    "creditcard_beautyinsider_banner": {
+      "content_type": "Banner",
+      "media": "1RiimsauiDkxHC4q8zQQe3",
+      "sample_referrer_path": "creditcard_beautyinsider_banner:27:::Banner=2849768,2784",
+      "platforms": {
+        "iphone app": 2849768
+      }
+    },
+    "ppage_OHSNAP0825_promo_apptopbanner_us_FY254479_week2_WEEKLY DEALS": {
+      "content_type": "Banner",
+      "media": "unknown",
+      "sample_referrer_path": "ppage_OHSNAP0825_promo_apptopbanner_us_FY254479_week2_WEEKLY DEALS:12:::Banner=2465128,2659",
+      "platforms": {
+        "iphone app": 2465128
+      }
+    },
+    "julycomplexion0725_best_foundation_find_shade_child_banner": {
+      "content_type": "BannerList",
+      "media": "558mjct4hPDyEUL6xkpAtf",
+      "sample_referrer_path": "julycomplexion0725_best_foundation_find_shade_child_banner:15:foundation0819_best_foundation_BannerList :25:BannerList=2854925,2776870,2875060",
+      "platforms": {
+        "android app": 2854925
+      }
+    },
+    "customer_service_banner_order_status_and_history": {
+      "content_type": "BannerList",
+      "media": "4FiSQIWW8Wn9IpP2QHu8dC",
+      "sample_referrer_path": "customer_service_banner_order_status_and_history:76:customer_service_banner_list:19:BannerList=2512705,2499",
+      "platforms": {
+        "android app": 2512705
+      }
+    },
+    "rhode_BL_CGT_shared_090425_FY254170": {
+      "content_type": "Banner",
+      "media": "1wDyb4JptUYIS5BjL6Y2Qq",
+      "sample_referrer_path": "n/a:n/a:homepage_productlist_ChosenForYou_us_ufe_092022:58:ProductList=2858744,2888717;rhode_BL_CGT_shared_090425_FY254170:9:n/a:n/a:Banner=2895928,2460111",
+      "platforms": {
+        "desktop web": 2858744
+      }
+    },
+    "AutoReplenHotDeal_ShopNow_CGT_shared_090825_FY254858": {
+      "content_type": "Banner",
+      "media": "Xdd0OcBPEJIfDESgWep9R",
+      "sample_referrer_path": "AutoReplenHotDeal_ShopNow_CGT_shared_090825_FY254858:10:n/a:n/a:Banner=2616837,2261",
+      "platforms": {
+        "desktop web": 2616837
+      }
+    },
+    "ppage_OHSNAP0825_promo_apptopbanner_us_091025_FY254479_week2_day13": {
+      "content_type": "Banner",
+      "media": "unknown",
+      "sample_referrer_path": "ppage_OHSNAP0825_promo_apptopbanner_us_091025_FY254479_week2_day13:6:::Banner=2012334,2525277,2866713",
+      "platforms": {
+        "iphone app": 2012334
+      }
+    }
+  }
+}

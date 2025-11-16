@@ -1,0 +1,58 @@
+[
+  {
+    "fieldKey": "title",
+    "fieldLabel": "Please provide the title",
+    "fieldType": "TextField",
+    "required": true,
+    "visible": true
+  },
+  {
+    "fieldKey": "requestedBy",
+    "fieldLabel": "Please provide the requested POD",
+    "fieldType": "TextField",
+    "required": true,
+    "visible": true
+  },
+  {
+    "fieldKey": "description",
+    "fieldLabel": "Please provide the description",
+    "fieldType": "TextField",
+    "required": true,
+    "visible": true
+  },
+  {
+    "fieldKey": "comments",
+    "fieldLabel": "Please provide the comments",
+    "fieldType": "TextField",
+    "required": true,
+    "visible": true
+  },
+  {
+    "fieldKey": "sotType",
+    "fieldLabel": "Please provide the sotType",
+    "fieldType": "TextField",
+    "required": true,
+    "visible": true
+  },
+  {
+    "fieldKey": "platform",
+    "fieldLabel": "Please select the platform",
+    "fieldType": "Autocomplete",
+    "required": true,
+    "visible": true
+  },
+  {
+    "fieldKey": "sotProperties",
+    "fieldLabel": "Please select the required sot variables",
+    "fieldType": "Autocomplete",
+    "required": false,
+    "visible": true
+  },
+  {
+    "fieldKey": "attachments",
+    "fieldLabel": "Please provide the attachments",
+    "fieldType": "FileUpload",
+    "required": false,
+    "visible": true
+  }
+]

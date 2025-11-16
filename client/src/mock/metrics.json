@@ -1,0 +1,18 @@
+{
+    "success": true,
+    "data": {
+        "total_abandoned_carts": 296,
+        "total_abandoned_revenue": 49865.63,
+        "recovery_rate": 25.63,
+        "average_cart_value": 168.46,
+        "abandonment_rate": 42.35,
+        "period_comparison": {
+            "previous_period": 0,
+            "change_percentage": 0
+        }
+    },
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-10",
+    "timestamp": "2025-11-10T04:49:46.267Z",
+    "source": "rest-api"
+}

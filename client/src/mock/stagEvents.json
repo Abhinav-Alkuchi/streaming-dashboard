@@ -1,0 +1,780 @@
+{
+    "success": true,
+    "data": [
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "cms viewable impression",
+            "platform": "desktop web",
+            "count": 17380
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "page view",
+            "platform": "android app",
+            "count": 5297
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "page view",
+            "platform": "iphone app",
+            "count": 3997
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "cms viewable impression",
+            "platform": "android app",
+            "count": 3889
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "page view",
+            "platform": "desktop web",
+            "count": 3034
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "cms viewable impression",
+            "platform": "iphone app",
+            "count": 3003
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "cms component item click",
+            "platform": "android app",
+            "count": 246
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "cms component item click",
+            "platform": "iphone app",
+            "count": 135
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "cms component item click",
+            "platform": "desktop web",
+            "count": 121
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "add to basket",
+            "platform": "desktop web",
+            "count": 100
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "add to basket",
+            "platform": "android app",
+            "count": 87
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "add to basket",
+            "platform": "iphone app",
+            "count": 71
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "purchase",
+            "platform": "desktop web",
+            "count": 38
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "remove from basket",
+            "platform": "android app",
+            "count": 38
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "remove from basket",
+            "platform": "desktop web",
+            "count": 31
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "remove from basket",
+            "platform": "iphone app",
+            "count": 27
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "purchase",
+            "platform": "iphone app",
+            "count": 22
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "add to loves",
+            "platform": "android app",
+            "count": 19
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "un love",
+            "platform": "android app",
+            "count": 9
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "purchase",
+            "platform": "android app",
+            "count": 9
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "un love",
+            "platform": "iphone app",
+            "count": 6
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "add to loves",
+            "platform": "desktop web",
+            "count": 6
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "event_type": "add to loves",
+            "platform": "iphone app",
+            "count": 5
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "event_type": "cms viewable impression",
+            "platform": "desktop web",
+            "count": 595
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "event_type": "page view",
+            "platform": "desktop web",
+            "count": 188
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "event_type": "page view",
+            "platform": "iphone app",
+            "count": 151
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "event_type": "cms viewable impression",
+            "platform": "iphone app",
+            "count": 127
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "event_type": "page view",
+            "platform": "android app",
+            "count": 70
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "event_type": "cms viewable impression",
+            "platform": "android app",
+            "count": 24
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "event_type": "cms component item click",
+            "platform": "iphone app",
+            "count": 11
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "event_type": "purchase",
+            "platform": "iphone app",
+            "count": 3
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "event_type": "add to basket",
+            "platform": "iphone app",
+            "count": 2
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "event_type": "add to basket",
+            "platform": "desktop web",
+            "count": 2
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "event_type": "cms component item click",
+            "platform": "android app",
+            "count": 2
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "event_type": "cms viewable impression",
+            "platform": "desktop web",
+            "count": 14119
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "event_type": "page view",
+            "platform": "android app",
+            "count": 4206
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "event_type": "cms viewable impression",
+            "platform": "android app",
+            "count": 2674
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "event_type": "page view",
+            "platform": "desktop web",
+            "count": 2667
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "event_type": "page view",
+            "platform": "iphone app",
+            "count": 2543
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "event_type": "cms viewable impression",
+            "platform": "iphone app",
+            "count": 1718
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "event_type": "cms component item click",
+            "platform": "android app",
+            "count": 182
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "event_type": "cms component item click",
+            "platform": "desktop web",
+            "count": 147
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "event_type": "add to basket",
+            "platform": "android app",
+            "count": 83
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "event_type": "cms component item click",
+            "platform": "iphone app",
+            "count": 66
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "event_type": "add to basket",
+            "platform": "desktop web",
+            "count": 59
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "event_type": "add to basket",
+            "platform": "iphone app",
+            "count": 38
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "event_type": "remove from basket",
+            "platform": "android app",
+            "count": 35
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "event_type": "purchase",
+            "platform": "desktop web",
+            "count": 33
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "event_type": "add to loves",
+            "platform": "android app",
+            "count": 32
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "event_type": "purchase",
+            "platform": "android app",
+            "count": 22
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "event_type": "un love",
+            "platform": "android app",
+            "count": 22
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "event_type": "remove from basket",
+            "platform": "iphone app",
+            "count": 22
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "event_type": "add to loves",
+            "platform": "iphone app",
+            "count": 7
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "event_type": "purchase",
+            "platform": "iphone app",
+            "count": 6
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "event_type": "remove from basket",
+            "platform": "desktop web",
+            "count": 4
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "cms viewable impression",
+            "platform": "desktop web",
+            "count": 20210
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "page view",
+            "platform": "android app",
+            "count": 7144
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "page view",
+            "platform": "iphone app",
+            "count": 6319
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "cms viewable impression",
+            "platform": "android app",
+            "count": 3930
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "page view",
+            "platform": "desktop web",
+            "count": 3830
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "cms viewable impression",
+            "platform": "iphone app",
+            "count": 3807
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "cms component item click",
+            "platform": "iphone app",
+            "count": 243
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "cms component item click",
+            "platform": "desktop web",
+            "count": 215
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "add to loves",
+            "platform": "android app",
+            "count": 196
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "add to basket",
+            "platform": "iphone app",
+            "count": 166
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "add to basket",
+            "platform": "android app",
+            "count": 153
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "add to basket",
+            "platform": "desktop web",
+            "count": 135
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "cms component item click",
+            "platform": "android app",
+            "count": 119
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "remove from basket",
+            "platform": "iphone app",
+            "count": 98
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "remove from basket",
+            "platform": "android app",
+            "count": 76
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "un love",
+            "platform": "iphone app",
+            "count": 69
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "add to loves",
+            "platform": "iphone app",
+            "count": 64
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "un love",
+            "platform": "android app",
+            "count": 52
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "purchase",
+            "platform": "desktop web",
+            "count": 47
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "remove from basket",
+            "platform": "desktop web",
+            "count": 33
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "purchase",
+            "platform": "iphone app",
+            "count": 32
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "add to loves",
+            "platform": "desktop web",
+            "count": 21
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "purchase",
+            "platform": "android app",
+            "count": 18
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "event_type": "un love",
+            "platform": "desktop web",
+            "count": 4
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "cms viewable impression",
+            "platform": "desktop web",
+            "count": 10670
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "page view",
+            "platform": "android app",
+            "count": 5027
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "page view",
+            "platform": "iphone app",
+            "count": 5003
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "cms viewable impression",
+            "platform": "iphone app",
+            "count": 3694
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "cms viewable impression",
+            "platform": "android app",
+            "count": 3042
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "page view",
+            "platform": "desktop web",
+            "count": 2397
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "cms component item click",
+            "platform": "android app",
+            "count": 193
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "cms component item click",
+            "platform": "iphone app",
+            "count": 139
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "add to basket",
+            "platform": "desktop web",
+            "count": 120
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "add to basket",
+            "platform": "android app",
+            "count": 114
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "add to basket",
+            "platform": "iphone app",
+            "count": 80
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "purchase",
+            "platform": "desktop web",
+            "count": 58
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "cms component item click",
+            "platform": "desktop web",
+            "count": 56
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "remove from basket",
+            "platform": "android app",
+            "count": 49
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "remove from basket",
+            "platform": "desktop web",
+            "count": 43
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "remove from basket",
+            "platform": "iphone app",
+            "count": 32
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "purchase",
+            "platform": "iphone app",
+            "count": 28
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "add to loves",
+            "platform": "iphone app",
+            "count": 24
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "add to loves",
+            "platform": "android app",
+            "count": 20
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "purchase",
+            "platform": "android app",
+            "count": 12
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "add to loves",
+            "platform": "desktop web",
+            "count": 8
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "un love",
+            "platform": "android app",
+            "count": 4
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "un love",
+            "platform": "desktop web",
+            "count": 3
+        },
+        {
+            "event_date": "2025-11-05T00:00:00.000Z",
+            "event_type": "un love",
+            "platform": "iphone app",
+            "count": 1
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "cms viewable impression",
+            "platform": "desktop web",
+            "count": 22107
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "page view",
+            "platform": "android app",
+            "count": 7322
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "page view",
+            "platform": "iphone app",
+            "count": 4445
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "page view",
+            "platform": "desktop web",
+            "count": 3861
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "cms viewable impression",
+            "platform": "android app",
+            "count": 3572
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "cms viewable impression",
+            "platform": "iphone app",
+            "count": 2850
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "cms component item click",
+            "platform": "android app",
+            "count": 136
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "add to basket",
+            "platform": "android app",
+            "count": 114
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "cms component item click",
+            "platform": "desktop web",
+            "count": 111
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "add to basket",
+            "platform": "desktop web",
+            "count": 109
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "cms component item click",
+            "platform": "iphone app",
+            "count": 96
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "add to basket",
+            "platform": "iphone app",
+            "count": 75
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "remove from basket",
+            "platform": "iphone app",
+            "count": 52
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "remove from basket",
+            "platform": "android app",
+            "count": 51
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "remove from basket",
+            "platform": "desktop web",
+            "count": 39
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "purchase",
+            "platform": "desktop web",
+            "count": 37
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "add to loves",
+            "platform": "android app",
+            "count": 18
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "purchase",
+            "platform": "iphone app",
+            "count": 18
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "purchase",
+            "platform": "android app",
+            "count": 12
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "add to loves",
+            "platform": "iphone app",
+            "count": 9
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "un love",
+            "platform": "iphone app",
+            "count": 8
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "add to loves",
+            "platform": "desktop web",
+            "count": 4
+        },
+        {
+            "event_date": "2025-11-04T00:00:00.000Z",
+            "event_type": "un love",
+            "platform": "android app",
+            "count": 1
+        }
+    ],
+    "startDate": "2025-11-04",
+    "endDate": "2025-11-10",
+    "eventTypes": [
+        "page view",
+        "purchase",
+        "add to basket",
+        "remove from basket",
+        "add to loves",
+        "un love",
+        "cms viewable impression",
+        "cms component item click"
+    ],
+    "platforms": [
+        "desktop web",
+        "iphone app",
+        "android app"
+    ],
+    "timestamp": "2025-11-11T04:47:44.242Z",
+    "recordCount": 126
+}

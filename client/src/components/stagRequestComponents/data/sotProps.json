@@ -1,0 +1,1102 @@
+[{
+    "tagId": 1,
+    "tagKey": "sotV01",
+    "tagName": "page type detail"
+  }, {
+    "tagId": 2,
+    "tagKey": "sotV02",
+    "tagName": "page world new"
+  }, {
+    "tagId": 3,
+    "tagKey": "sotV03",
+    "tagName": "Page name in code"
+  }, {
+    "tagId": 4,
+    "tagKey": "sotV04",
+    "tagName": "sku Id"
+  }, {
+    "tagId": 5,
+    "tagKey": "sotV05",
+    "tagName": "sku quantity"
+  }, {
+    "tagId": 6,
+    "tagKey": "sotV06",
+    "tagName": "sku price"
+  }, {
+    "tagId": 7,
+    "tagKey": "sotV07",
+    "tagName": "sku brand name"
+  }, {
+    "tagId": 8,
+    "tagKey": "sotV08",
+    "tagName": "category id"
+  }, {
+    "tagId": 9,
+    "tagKey": "sotV09",
+    "tagName": "currency"
+  }, {
+    "tagId": 10,
+    "tagKey": "sotV10",
+    "tagName": "order id"
+  }, {
+    "tagId": 11,
+    "tagKey": "sotV11",
+    "tagName": "cart cumulative value"
+  }, {
+    "tagId": 12,
+    "tagKey": "sotV12",
+    "tagName": "fbp value"
+  }, {
+    "tagId": 13,
+    "tagKey": "sotV13",
+    "tagName": "ccpa consent cookie"
+  }, {
+    "tagId": 14,
+    "tagKey": "sotV14",
+    "tagName": "Link Event Strings"
+  }, {
+    "tagId": 15,
+    "tagKey": "sotV15",
+    "tagName": "Product Id"
+  }, {
+    "tagId": 16,
+    "tagKey": "sotV16",
+    "tagName": "Link Name"
+  }, {
+    "tagId": 17,
+    "tagKey": "sotV17",
+    "tagName": "Link Platform"
+  }, {
+    "tagId": 18,
+    "tagKey": "sotV18",
+    "tagName": "Beauty Board :: Photo ID"
+  }, {
+    "tagId": 19,
+    "tagKey": "sotV19",
+    "tagName": "Link:: Experience"
+  }, {
+    "tagId": 20,
+    "tagKey": "sotV20",
+    "tagName": "Color IQ:: Save To Profile"
+  }, {
+    "tagId": 21,
+    "tagKey": "sotV21",
+    "tagName": "Link :: Video Name"
+  }, {
+    "tagId": 22,
+    "tagKey": "sotV22",
+    "tagName": "Link :: External Recommendation Info"
+  }, {
+    "tagId": 23,
+    "tagKey": "sotV23",
+    "tagName": "Link :: Happening Filters"
+  }, {
+    "tagId": 24,
+    "tagKey": "sotV24",
+    "tagName": "Link :: Sku Type"
+  }, {
+    "tagId": 25,
+    "tagKey": "sotV25",
+    "tagName": "Link :: Language Locale"
+  }, {
+    "tagId": 26,
+    "tagKey": "sotV26",
+    "tagName": "Link :: eVar63"
+  }, {
+    "tagId": 27,
+    "tagKey": "sotV27",
+    "tagName": "Link :: Previous Navigation Information"
+  }, {
+    "tagId": 28,
+    "tagKey": "sotV28",
+    "tagName": "Link :: User Input / Promo Code"
+  }, {
+    "tagId": 29,
+    "tagKey": "sotV29",
+    "tagName": "Link :: Server Response"
+  }, {
+    "tagId": 30,
+    "tagKey": "sotV30",
+    "tagName": "Link :: BI Real-time Point Status"
+  }, {
+    "tagId": 31,
+    "tagKey": "sotV31",
+    "tagName": "Link :: Add To Basket Location"
+  }, {
+    "tagId": 32,
+    "tagKey": "sotV32",
+    "tagName": "Link :: Internal Campaign String"
+  }, {
+    "tagId": 33,
+    "tagKey": "sotV33",
+    "tagName": "Link :: Page Type"
+  }, {
+    "tagId": 34,
+    "tagKey": "sotV34",
+    "tagName": "Link :: Page Detail"
+  }, {
+    "tagId": 35,
+    "tagKey": "sotV35",
+    "tagName": "Link :: Page World"
+  }, {
+    "tagId": 36,
+    "tagKey": "sotV36",
+    "tagName": "Link :: Page Name"
+  }, {
+    "tagId": 37,
+    "tagKey": "sotV37",
+    "tagName": "Link :: biChipType"
+  }, {
+    "tagId": 38,
+    "tagKey": "sotV38",
+    "tagName": "Link :: External Recommendation Info"
+  }, {
+    "tagId": 39,
+    "tagKey": "sotV39",
+    "tagName": "Link :: Filter Selections"
+  }, {
+    "tagId": 40,
+    "tagKey": "sotV40",
+    "tagName": "Link :: Previous Page"
+  }, {
+    "tagId": 41,
+    "tagKey": "sotV41",
+    "tagName": "Link :: Search Criteria"
+  }, {
+    "tagId": 42,
+    "tagKey": "sotV42",
+    "tagName": "Link :: Product Answers Keyword / Review Search Term"
+  }, {
+    "tagId": 43,
+    "tagKey": "sotV43",
+    "tagName": "Link :: Field Errors"
+  }, {
+    "tagId": 44,
+    "tagKey": "sotV44",
+    "tagName": "Link :: Validation Error Messages"
+  }, {
+    "tagId": 45,
+    "tagKey": "sotV45",
+    "tagName": "User :: Accepted Advertising Cookies"
+  }, {
+    "tagId": 46,
+    "tagKey": "sotV46",
+    "tagName": "D=v62"
+  }, {
+    "tagId": 47,
+    "tagKey": "sotV47",
+    "tagName": "Link :: Error Messages"
+  }, {
+    "tagId": 48,
+    "tagKey": "sotV48",
+    "tagName": "Pixel :: Braze :: User ID"
+  }, {
+    "tagId": 49,
+    "tagKey": "sotV49",
+    "tagName": "Pixel :: Braze :: Variation Name"
+  }, {
+    "tagId": 50,
+    "tagKey": "sotV50",
+    "tagName": "Pixel :: Braze :: Campaign Name"
+  }, {
+    "tagId": 51,
+    "tagKey": "sotV51",
+    "tagName": "Link :: Medallia Form"
+  }, {
+    "tagId": 52,
+    "tagKey": "sotV52",
+    "tagName": "SiteCatalyst :: Account ID"
+  }, {
+    "tagId": 53,
+    "tagKey": "sotV53",
+    "tagName": "Channel"
+  }, {
+    "tagId": 54,
+    "tagKey": "sotV54",
+    "tagName": "Campaign :: URS :: Channel"
+  }, {
+    "tagId": 55,
+    "tagKey": "sotV55",
+    "tagName": "Page :: Event Strings"
+  }, {
+    "tagId": 56,
+    "tagKey": "sotV56",
+    "tagName": "Product String :: On-load"
+  }, {
+    "tagId": 57,
+    "tagKey": "sotV57",
+    "tagName": "Transaction :: ISO :: Currency"
+  }, {
+    "tagId": 58,
+    "tagKey": "sotV58",
+    "tagName": "Page :: Certona Impression"
+  }, {
+    "tagId": 59,
+    "tagKey": "sotV59",
+    "tagName": "Page :: Order Number"
+  }, {
+    "tagId": 60,
+    "tagKey": "sotV60",
+    "tagName": "Page :: Search :: Search Term"
+  }, {
+    "tagId": 61,
+    "tagKey": "sotV61",
+    "tagName": "Internal Campaign"
+  }, {
+    "tagId": 62,
+    "tagKey": "sotV62",
+    "tagName": "Page :: Page Name for eVar6"
+  }, {
+    "tagId": 63,
+    "tagKey": "sotV63",
+    "tagName": "Page :: Order :: Shipping Method"
+  }, {
+    "tagId": 64,
+    "tagKey": "sotV64",
+    "tagName": "Page :: Order :: Payment Method"
+  }, {
+    "tagId": 65,
+    "tagKey": "sotV65",
+    "tagName": "Page :: Promo Code"
+  }, {
+    "tagId": 66,
+    "tagKey": "sotV66",
+    "tagName": "D=c27"
+  }, {
+    "tagId": 67,
+    "tagKey": "sotV67",
+    "tagName": "D=c9"
+  }, {
+    "tagId": 68,
+    "tagKey": "sotV68",
+    "tagName": "Page :: Experience"
+  }, {
+    "tagId": 69,
+    "tagKey": "sotV69",
+    "tagName": "Page :: Order Number"
+  }, {
+    "tagId": 70,
+    "tagKey": "sotV70",
+    "tagName": "Page :: Certona Audience Id"
+  }, {
+    "tagId": 71,
+    "tagKey": "sotV71",
+    "tagName": "Campaign :: Affiliate ID"
+  }, {
+    "tagId": 72,
+    "tagKey": "sotV72",
+    "tagName": "Page :: Audience Segmentation"
+  }, {
+    "tagId": 73,
+    "tagKey": "sotV73",
+    "tagName": "Page :: Day of Week"
+  }, {
+    "tagId": 74,
+    "tagKey": "sotV74",
+    "tagName": "D=g"
+  }, {
+    "tagId": 75,
+    "tagKey": "sotV75",
+    "tagName": "Page :: Search Type"
+  }, {
+    "tagId": 76,
+    "tagKey": "sotV76",
+    "tagName": "Campaign :: URS :: Channel"
+  }, {
+    "tagId": 77,
+    "tagKey": "sotV77",
+    "tagName": "jhjh"
+  }, {
+    "tagId": 78,
+    "tagKey": "sotV78",
+    "tagName": "Campaign :: Email Harmony Deployment Id"
+  }, {
+    "tagId": 79,
+    "tagKey": "sotV79",
+    "tagName": "Campaign :: Harmony Link ID"
+  }, {
+    "tagId": 80,
+    "tagKey": "sotV80",
+    "tagName": "Campaign :: Harmony Customer Key"
+  }, {
+    "tagId": 81,
+    "tagKey": "sotV81",
+    "tagName": "Campaign : Email ATG ID"
+  }, {
+    "tagId": 82,
+    "tagKey": "sotV82",
+    "tagName": "D=c6"
+  }, {
+    "tagId": 83,
+    "tagKey": "sotV83",
+    "tagName": "D=c8"
+  }, {
+    "tagId": 84,
+    "tagKey": "sotV84",
+    "tagName": "Category Filters"
+  }, {
+    "tagId": 85,
+    "tagKey": "sotV85",
+    "tagName": "D=User-Agent'"
+  }, {
+    "tagId": 86,
+    "tagKey": "sotV86",
+    "tagName": "D=c9'"
+  }, {
+    "tagId": 87,
+    "tagKey": "sotV87",
+    "tagName": "D=g'"
+  }, {
+    "tagId": 88,
+    "tagKey": "sotV88",
+    "tagName": "Page :: Previous Navigation Information"
+  }, {
+    "tagId": 89,
+    "tagKey": "sotV89",
+    "tagName": "Page :: Search Term Dynamic Var"
+  }, {
+    "tagId": 90,
+    "tagKey": "sotV90",
+    "tagName": "User :: BIFlash"
+  }, {
+    "tagId": 91,
+    "tagKey": "sotV91",
+    "tagName": "Internal Campaign"
+  }, {
+    "tagId": 92,
+    "tagKey": "sotV92",
+    "tagName": "AdBanner"
+  }, {
+    "tagId": 93,
+    "tagKey": "sotV93",
+    "tagName": "Page :: Beauty Talk Navigation Info"
+  }, {
+    "tagId": 94,
+    "tagKey": "sotV94",
+    "tagName": "Campaign :: Bluecore Campaign ID"
+  }, {
+    "tagId": 95,
+    "tagKey": "sotV95",
+    "tagName": "Page :: Is Apple Pay Eligible"
+  }, {
+    "tagId": 96,
+    "tagKey": "sotV96",
+    "tagName": "Campaign :: Epsilon Audience ID"
+  }, {
+    "tagId": 97,
+    "tagKey": "sotV97",
+    "tagName": "Page :: ATG Version"
+  }, {
+    "tagId": 98,
+    "tagKey": "sotV98",
+    "tagName": "Page :: Experience Store ID"
+  }, {
+    "tagId": 99,
+    "tagKey": "sotV99",
+    "tagName": "Page :: biChipType"
+  }, {
+    "tagId": 100,
+    "tagKey": "sotV100",
+    "tagName": "Page :: Search Results Algorithm Type"
+  }, {
+    "tagId": 101,
+    "tagKey": "sotV101",
+    "tagName": "Page :: Certona Audience Id"
+  }, {
+    "tagId": 102,
+    "tagKey": "sotV102",
+    "tagName": "Page :: BreakPoint"
+  }, {
+    "tagId": 103,
+    "tagKey": "sotV103",
+    "tagName": "Page :: Experience Type"
+  }, {
+    "tagId": 104,
+    "tagKey": "sotV104",
+    "tagName": "Page :: Search Term"
+  }, {
+    "tagId": 105,
+    "tagKey": "sotV105",
+    "tagName": "Page :: Number of Results"
+  }, {
+    "tagId": 106,
+    "tagKey": "sotV106",
+    "tagName": "Page :: Previous Page Name"
+  }, {
+    "tagId": 107,
+    "tagKey": "sotV107",
+    "tagName": "Page :: Previous Page Type"
+  }, {
+    "tagId": 108,
+    "tagKey": "sotV108",
+    "tagName": "Page :: Certona Placement :: ProductPage Tracking"
+  }, {
+    "tagId": 109,
+    "tagKey": "sotV109",
+    "tagName": "Page :: Content Country"
+  }, {
+    "tagId": 110,
+    "tagKey": "sotV110",
+    "tagName": "Page :: Date"
+  }, {
+    "tagId": 111,
+    "tagKey": "sotV111",
+    "tagName": "User :: Accepted Advertising Cookies"
+  }, {
+    "tagId": 112,
+    "tagKey": "sotV112",
+    "tagName": "Page :: Community User Id"
+  }, {
+    "tagId": 113,
+    "tagKey": "sotV113",
+    "tagName": "D=v62"
+  }, {
+    "tagId": 114,
+    "tagKey": "sotV114",
+    "tagName": "Event :: Last Refresh"
+  }, {
+    "tagId": 115,
+    "tagKey": "sotV115",
+    "tagName": "User :: Play Status"
+  }, {
+    "tagId": 116,
+    "tagKey": "sotV116",
+    "tagName": "Page :: Previous Link Data"
+  }, {
+    "tagId": 117,
+    "tagKey": "sotV117",
+    "tagName": "Page :: Variant Keys"
+  }, {
+    "tagId": 118,
+    "tagKey": "sotV118",
+    "tagName": "Dynamic Category Filter"
+  }, {
+    "tagId": 119,
+    "tagKey": "sotV119",
+    "tagName": "Page :: Country"
+  }, {
+    "tagId": 120,
+    "tagKey": "sotV120",
+    "tagName": "adBannersOn"
+  }, {
+    "tagId": 121,
+    "tagKey": "sotV121",
+    "tagName": "Async Page Name"
+  }, {
+    "tagId": 122,
+    "tagKey": "sotV122",
+    "tagName": "Async Event Strings"
+  }, {
+    "tagId": 123,
+    "tagKey": "sotV123",
+    "tagName": "Async Product Strings"
+  }, {
+    "tagId": 124,
+    "tagKey": "sotV124",
+    "tagName": "D=c4"
+  }, {
+    "tagId": 125,
+    "tagKey": "sotV125",
+    "tagName": "Async Internal Campaign String"
+  }, {
+    "tagId": 126,
+    "tagKey": "sotV126",
+    "tagName": "Async :: Certona Audience Id"
+  }, {
+    "tagId": 127,
+    "tagKey": "sotV127",
+    "tagName": "Async :: Category Filters"
+  }, {
+    "tagId": 128,
+    "tagKey": "sotV128",
+    "tagName": "Async Previous Navigation Information"
+  }, {
+    "tagId": 129,
+    "tagKey": "sotV129",
+    "tagName": "Async :: User :: BIFlash"
+  }, {
+    "tagId": 130,
+    "tagKey": "sotV130",
+    "tagName": "Async Internal Campaign String"
+  }, {
+    "tagId": 131,
+    "tagKey": "sotV131",
+    "tagName": "Async :: Page :: Type"
+  }, {
+    "tagId": 132,
+    "tagKey": "sotV132",
+    "tagName": "Async :: Page :: Page Detail"
+  }, {
+    "tagId": 133,
+    "tagKey": "sotV133",
+    "tagName": "Async :: World"
+  }, {
+    "tagId": 134,
+    "tagKey": "sotV134",
+    "tagName": "Async :: Page :: Credit Card Status"
+  }, {
+    "tagId": 135,
+    "tagKey": "sotV135",
+    "tagName": "Async :: Certona Audience Id"
+  }, {
+    "tagId": 136,
+    "tagKey": "sotV136",
+    "tagName": "Async Previous Page Name"
+  }, {
+    "tagId": 137,
+    "tagKey": "sotV137",
+    "tagName": "Async Previous Page Type"
+  }, {
+    "tagId": 138,
+    "tagKey": "sotV138",
+    "tagName": "Async :: User :: BI Status"
+  }, {
+    "tagId": 139,
+    "tagKey": "sotV139",
+    "tagName": "Async :: User :: ATG ID"
+  }, {
+    "tagId": 140,
+    "tagKey": "sotV140",
+    "tagName": "Page :: Certona Placement :: Quicklooks"
+  }, {
+    "tagId": 141,
+    "tagKey": "sotV141",
+    "tagName": "Async :: Page :: Content Country"
+  }, {
+    "tagId": 142,
+    "tagKey": "sotV142",
+    "tagName": "Async :: User :: Sign In Status"
+  }, {
+    "tagId": 143,
+    "tagKey": "sotV143",
+    "tagName": "Async :: Page Load Time"
+  }, {
+    "tagId": 144,
+    "tagKey": "sotV144",
+    "tagName": "Async Previous Link Data"
+  }, {
+    "tagId": 145,
+    "tagKey": "sotV145",
+    "tagName": "Async Feature Strings"
+  }, {
+    "tagId": 146,
+    "tagKey": "sotV146",
+    "tagName": "Async :: Dynamic Category Filter"
+  }, {
+    "tagId": 147,
+    "tagKey": "sotV147",
+    "tagName": "Async :: Page :: Type"
+  }, {
+    "tagId": 148,
+    "tagKey": "sotV148",
+    "tagName": "Is Stay Signed In On"
+  }, {
+    "tagId": 149,
+    "tagKey": "sotV149",
+    "tagName": "Link :: Product Strings"
+  }, {
+    "tagId": 150,
+    "tagKey": "sotV150",
+    "tagName": "llll"
+  }, {
+    "tagId": 151,
+    "tagKey": "sotV151",
+    "tagName": "Search system"
+  }, {
+    "tagId": 152,
+    "tagKey": "sotV152",
+    "tagName": "Group Id"
+  }, {
+    "tagId": 153,
+    "tagKey": "sotV153",
+    "tagName": "From Basket Type"
+  }, {
+    "tagId": 154,
+    "tagKey": "sotV154",
+    "tagName": "To Basket"
+  }, {
+    "tagId": 155,
+    "tagKey": "sotV155",
+    "tagName": "Page Type"
+  }, {
+    "tagId": 156,
+    "tagKey": "sotV156",
+    "tagName": "section tittle"
+  }, {
+    "tagId": 157,
+    "tagKey": "sotV157",
+    "tagName": "geofence"
+  }, {
+    "tagId": 158,
+    "tagKey": "sotV158",
+    "tagName": "List Type"
+  }, {
+    "tagId": 159,
+    "tagKey": "sotV159",
+    "tagName": "Scan status"
+  }, {
+    "tagId": 160,
+    "tagKey": "sotV160",
+    "tagName": "helpfulness"
+  }, {
+    "tagId": 161,
+    "tagKey": "sotV161",
+    "tagName": "SkuIds - products used"
+  }, {
+    "tagId": 162,
+    "tagKey": "sotV162",
+    "tagName": "SkuIds - product Tagged"
+  }, {
+    "tagId": 163,
+    "tagKey": "sotV163",
+    "tagName": "Category Name"
+  }, {
+    "tagId": 164,
+    "tagKey": "sotV164",
+    "tagName": "Post ID"
+  }, {
+    "tagId": 165,
+    "tagKey": "sotV165",
+    "tagName": "Review Id"
+  }, {
+    "tagId": 166,
+    "tagKey": "sotV166",
+    "tagName": "Question Id"
+  }, {
+    "tagId": 167,
+    "tagKey": "sotV167",
+    "tagName": "Answer Id"
+  }, {
+    "tagId": 168,
+    "tagKey": "sotV168",
+    "tagName": "Survey name"
+  }, {
+    "tagId": 169,
+    "tagKey": "sotV169",
+    "tagName": "Reservation name"
+  }, {
+    "tagId": 170,
+    "tagKey": "sotV170",
+    "tagName": "uuuu"
+  }, {
+    "tagId": 171,
+    "tagKey": "sotV171",
+    "tagName": "Activity id"
+  }, {
+    "tagId": 172,
+    "tagKey": "sotV172",
+    "tagName": "Activity Type"
+  }, {
+    "tagId": 173,
+    "tagKey": "sotV173",
+    "tagName": "Image index"
+  }, {
+    "tagId": 174,
+    "tagKey": "sotV174",
+    "tagName": "Brand Id"
+  }, {
+    "tagId": 175,
+    "tagKey": "sotV175",
+    "tagName": "photo source"
+  }, {
+    "tagId": 176,
+    "tagKey": "sotV176",
+    "tagName": "Video played percentage"
+  }, {
+    "tagId": 177,
+    "tagKey": "sotV177",
+    "tagName": "state"
+  }, {
+    "tagId": 178,
+    "tagKey": "sotV178",
+    "tagName": "Birthday registered or not"
+  }, {
+    "tagId": 179,
+    "tagKey": "sotV179",
+    "tagName": "Email subscribed or not"
+  }, {
+    "tagId": 180,
+    "tagKey": "sotV180",
+    "tagName": "Shade Code L,A,B"
+  }, {
+    "tagId": 181,
+    "tagKey": "sotV181",
+    "tagName": "Webpage URL"
+  }, {
+    "tagId": 182,
+    "tagKey": "sotV182",
+    "tagName": "Webpage URLPath"
+  }, {
+    "tagId": 183,
+    "tagKey": "sotV183",
+    "tagName": "webpageURLQuery"
+  }, {
+    "tagId": 184,
+    "tagKey": "sotV184",
+    "tagName": "Card brand"
+  }, {
+    "tagId": 185,
+    "tagKey": "sotV185",
+    "tagName": "Question number"
+  }, {
+    "tagId": 186,
+    "tagKey": "sotV186",
+    "tagName": "Question text"
+  }, {
+    "tagId": 187,
+    "tagKey": "sotV187",
+    "tagName": "customer zip code"
+  }, {
+    "tagId": 188,
+    "tagKey": "sotV188",
+    "tagName": "online only"
+  }, {
+    "tagId": 189,
+    "tagKey": "sotV189",
+    "tagName": "Same day delivery eligible"
+  }, {
+    "tagId": 190,
+    "tagKey": "sotV190",
+    "tagName": "Availability in newly preferred store"
+  }, {
+    "tagId": 191,
+    "tagKey": "sotV191",
+    "tagName": "ClickTracking Id"
+  }, {
+    "tagId": 192,
+    "tagKey": "sotV192",
+    "tagName": "product top category"
+  }, {
+    "tagId": 193,
+    "tagKey": "sotV193",
+    "tagName": "preferred store ID"
+  }, {
+    "tagId": 194,
+    "tagKey": "sotV194",
+    "tagName": "item availability in stores"
+  }, {
+    "tagId": 195,
+    "tagKey": "sotV195",
+    "tagName": "previous preferred store ID"
+  }, {
+    "tagId": 196,
+    "tagKey": "sotV196",
+    "tagName": "Available in previous preferred store"
+  }, {
+    "tagId": 197,
+    "tagKey": "sotV197",
+    "tagName": "shipping charge"
+  }, {
+    "tagId": 198,
+    "tagKey": "sotV198",
+    "tagName": "Group name"
+  }, {
+    "tagId": 199,
+    "tagKey": "sotV199",
+    "tagName": "Stock Availability"
+  }, {
+    "tagId": 200,
+    "tagKey": "sotV200",
+    "tagName": "Impression Ids"
+  }, {
+    "tagId": 201,
+    "tagKey": "sotV201",
+    "tagName": "RMN session id"
+  }, {
+    "tagId": 202,
+    "tagKey": "sotV202",
+    "tagName": "Activity Id"
+  }, {
+    "tagId": 203,
+    "tagKey": "sotV203",
+    "tagName": "Activity Name"
+  }, {
+    "tagId": 204,
+    "tagKey": "sotV204",
+    "tagName": "Experience Id"
+  }, {
+    "tagId": 205,
+    "tagKey": "sotV205",
+    "tagName": "Experience Name"
+  }, {
+    "tagId": 206,
+    "tagKey": "sotV206",
+    "tagName": "Visitor Id"
+  }, {
+    "tagId": 207,
+    "tagKey": "sotV207",
+    "tagName": "Heroslot Banner Name"
+  }, {
+    "tagId": 208,
+    "tagKey": "sotV208",
+    "tagName": "Heroslot Banner Id"
+  }, {
+    "tagId": 209,
+    "tagKey": "sotV209",
+    "tagName": "Heroslot Banner Alttext"
+  }, {
+    "tagId": 210,
+    "tagKey": "sotV210",
+    "tagName": "Heroslot Banner TargetUrl"
+  }, {
+    "tagId": 211,
+    "tagKey": "sotV211",
+    "tagName": "Unified Image Banner Name / is app exclusive"
+  }, {
+    "tagId": 212,
+    "tagKey": "sotV212",
+    "tagName": "Unified Image Banner Id"
+  }, {
+    "tagId": 213,
+    "tagKey": "sotV213",
+    "tagName": "Unified Image Banner TargetUrl"
+  }, {
+    "tagId": 214,
+    "tagKey": "sotV214",
+    "tagName": "Answer text"
+  }, {
+    "tagId": 215,
+    "tagKey": "sotV215",
+    "tagName": "product name"
+  }, {
+    "tagId": 216,
+    "tagKey": "sotV216",
+    "tagName": "SKU variant type"
+  }, {
+    "tagId": 217,
+    "tagKey": "sotV217",
+    "tagName": "SKU variant value"
+  }, {
+    "tagId": 218,
+    "tagKey": "sotV218",
+    "tagName": "event Pair Id"
+  }, {
+    "tagId": 219,
+    "tagKey": "sotV219",
+    "tagName": "Time duartion"
+  }, {
+    "tagId": 220,
+    "tagKey": "sotV220",
+    "tagName": "pageSource"
+  }, {
+    "tagId": 221,
+    "tagKey": "sotV221",
+    "tagName": "Tile title text"
+  }, {
+    "tagId": 222,
+    "tagKey": "sotV222",
+    "tagName": "isTrialEligible (SDU - Same Day Unlimited)"
+  }, {
+    "tagId": 223,
+    "tagKey": "sotV223",
+    "tagName": "status (SDU)"
+  }, {
+    "tagId": 224,
+    "tagKey": "sotV224",
+    "tagName": "type (SDU)"
+  }, {
+    "tagId": 225,
+    "tagKey": "sotV225",
+    "tagName": "reserved for TMS"
+  }, {
+    "tagId": 226,
+    "tagKey": "sotV226",
+    "tagName": "reserved for TMS"
+  }, {
+    "tagId": 227,
+    "tagKey": "sotV227",
+    "tagName": "_scid"
+  }, {
+    "tagId": 228,
+    "tagKey": "sotV228",
+    "tagName": "idfv"
+  }, {
+    "tagId": 229,
+    "tagKey": "sotV229",
+    "tagName": "Frequency number (subscription duration)"
+  }, {
+    "tagId": 230,
+    "tagKey": "sotV230",
+    "tagName": "Frequency type (eg: months, weeks ... )"
+  }, {
+    "tagId": 231,
+    "tagKey": "sotV231",
+    "tagName": "subscription status (Auto replenish)"
+  }, {
+    "tagId": 232,
+    "tagKey": "sotV232",
+    "tagName": "fbc value"
+  }, {
+    "tagId": 233,
+    "tagKey": "sotV233",
+    "tagName": "Carousel Title"
+  }, {
+    "tagId": 234,
+    "tagKey": "sotV234",
+    "tagName": "Carousel Item Index"
+  }, {
+    "tagId": 235,
+    "tagKey": "sotV235",
+    "tagName": "Operating _ system"
+  }, {
+    "tagId": 236,
+    "tagKey": "sotV236",
+    "tagName": "isLowInStock"
+  }, {
+    "tagId": 237,
+    "tagKey": "sotV237",
+    "tagName": "Locale"
+  }, {
+    "tagId": 238,
+    "tagKey": "sotV238",
+    "tagName": "timezone abbreviation"
+  }, {
+    "tagId": 239,
+    "tagKey": "sotV239",
+    "tagName": "Carrier"
+  }, {
+    "tagId": 240,
+    "tagKey": "sotV240",
+    "tagName": "Screen width"
+  }, {
+    "tagId": 241,
+    "tagKey": "sotV241",
+    "tagName": "Screen height"
+  }, {
+    "tagId": 242,
+    "tagKey": "sotV242",
+    "tagName": "Screen density"
+  }, {
+    "tagId": 243,
+    "tagKey": "sotV243",
+    "tagName": "CPU cores"
+  }, {
+    "tagId": 244,
+    "tagKey": "sotV244",
+    "tagName": "internal storage size in GB"
+  }, {
+    "tagId": 245,
+    "tagKey": "sotV245",
+    "tagName": "Free space on internal storage in GB"
+  }, {
+    "tagId": 246,
+    "tagKey": "sotV246",
+    "tagName": "Device timezone name"
+  }, {
+    "tagId": 247,
+    "tagKey": "sotV247",
+    "tagName": "Medallia form id"
+  }, {
+    "tagId": 248,
+    "tagKey": "sotV248",
+    "tagName": "Medallia form type"
+  }, {
+    "tagId": 249,
+    "tagKey": "sotV249",
+    "tagName": "Report issue reason"
+  }, {
+    "tagId": 250,
+    "tagKey": "sotV250",
+    "tagName": "Report issue reason Code"
+  }, {
+    "tagId": 251,
+    "tagKey": "sotV251",
+    "tagName": "Replacement Order Id"
+  }, {
+    "tagId": 252,
+    "tagKey": "sotV252",
+    "tagName": "personalized banner viewable impression id"
+  }, {
+    "tagId": 253,
+    "tagKey": "sotV253",
+    "tagName": "personalized banner click tracking id"
+  }, {
+    "tagId": 254,
+    "tagKey": "sotV254",
+    "tagName": "current basket items skuIds (semicolon seperated string)"
+  }, {
+    "tagId": 255,
+    "tagKey": "sotV255",
+    "tagName": "AEM_Campaign_id"
+  }, {
+    "tagId": 256,
+    "tagKey": "sotV256",
+    "tagName": "out of stock notification type"
+  }, {
+    "tagId": 257,
+    "tagKey": "sotV257",
+    "tagName": "notification email id"
+  }, {
+    "tagId": 258,
+    "tagKey": "sotV258",
+    "tagName": "notification mobile number"
+  }, {
+    "tagId": 259,
+    "tagKey": "sotV259",
+    "tagName": "love list items skuIds(semicolon seperated string)"
+  }, {
+    "tagId": 260,
+    "tagKey": "sotV260",
+    "tagName": "Beauty Preferences selected accordion name"
+  }, {
+    "tagId": 261,
+    "tagKey": "sotV261",
+    "tagName": "Beauty preference skinType"
+  }, {
+    "tagId": 262,
+    "tagKey": "sotV262",
+    "tagName": "Beauty preference skinConcerns"
+  }, {
+    "tagId": 263,
+    "tagKey": "sotV263",
+    "tagName": "Beauty preference skinTone"
+  }, {
+    "tagId": 264,
+    "tagKey": "sotV264",
+    "tagName": "Beauty preference colorIQ"
+  }, {
+    "tagId": 265,
+    "tagKey": "sotV265",
+    "tagName": "Beauty preference ingredientPreferences"
+  }, {
+    "tagId": 266,
+    "tagKey": "sotV266",
+    "tagName": "Beauty preference fragrancePreferences"
+  }, {
+    "tagId": 267,
+    "tagKey": "sotV267",
+    "tagName": "Beauty preference hairType/hairDescrible"
+  }, {
+    "tagId": 268,
+    "tagKey": "sotV268",
+    "tagName": "Beauty preference hairTexture"
+  }, {
+    "tagId": 269,
+    "tagKey": "sotV269",
+    "tagName": "Beauty preference hairConcerns"
+  }, {
+    "tagId": 270,
+    "tagKey": "sotV270",
+    "tagName": "Beauty preference hairColor"
+  }, {
+    "tagId": 271,
+    "tagKey": "sotV271",
+    "tagName": "Beauty preference shoppingPreferences"
+  }, {
+    "tagId": 272,
+    "tagKey": "sotV272",
+    "tagName": "Beauty preference favoriteBrands"
+  }, {
+    "tagId": 273,
+    "tagKey": "sotV273",
+    "tagName": "Beauty preference eyeColor"
+  }, {
+    "tagId": 274,
+    "tagKey": "sotV274",
+    "tagName": "Beauty preference ageRange"
+  }, {
+    "tagId": 275,
+    "tagKey": "sotV275",
+    "tagName": "Beauty preference completion percentage"
+  }]
+  

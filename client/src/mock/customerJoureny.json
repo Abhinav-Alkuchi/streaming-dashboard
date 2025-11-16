@@ -1,0 +1,5650 @@
+{
+    "success": true,
+    "data": [
+        {
+            "customer_id": "4444614020899072",
+            "customer_email": "ecsc102720251@yopmail.com",
+            "session_id": "c157fa32-729d-4f75-905d-ba2eea0581a6.1762338340593",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762341610012,
+                    "duration": 8942
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762350552176,
+                    "duration": 8
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762350560369,
+                    "duration": 45
+                }
+            ],
+            "total_time": 8995,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20112103573",
+            "customer_email": "froli007@yopmail.com",
+            "session_id": "cb2e9d65-2157-44a0-9767-7c1e0845435b.1762161599645",
+            "platform": "mobile",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762165707249,
+                    "duration": 840
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762168204262,
+                    "duration": 4133
+                }
+            ],
+            "total_time": 4973,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "20234656404",
+            "customer_email": "o2@yopmail.com",
+            "session_id": "f4da5bdd-5dc4-435b-b35f-c44da67f1b8a.1762377896305",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762381474702,
+                    "duration": 18
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762381492950,
+                    "duration": 16
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762381509148,
+                    "duration": 4170
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762385680110,
+                    "duration": 45
+                }
+            ],
+            "total_time": 4249,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "20032900134",
+            "customer_email": "qa4test@gmail.com",
+            "session_id": "138e9213-9a65-4db3-b129-f91d6ac103de.1762155321414",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762156289315,
+                    "duration": 48
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762156338179,
+                    "duration": 36
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762156374232,
+                    "duration": 128
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762156503204,
+                    "duration": 159
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762156663158,
+                    "duration": 1077
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762157740705,
+                    "duration": 2729
+                }
+            ],
+            "total_time": 4177,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "4020568439131392",
+            "customer_email": "harika.venmo@yopmail.com",
+            "session_id": "5ae31093-c852-4d37-aa34-b528f6351bed.1762207482845",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762208334470,
+                    "duration": 3
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762208338143,
+                    "duration": 2
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762208340965,
+                    "duration": 5
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762208346262,
+                    "duration": 3861
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762212207921,
+                    "duration": 45
+                }
+            ],
+            "total_time": 3916,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "4470265217233024",
+            "customer_email": "km_rr@yopmail.com",
+            "session_id": "ee01bf17-176f-46f1-8334-4a4df86f0db6.1762434632406",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762435680240,
+                    "duration": 3830
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762440219806,
+                    "duration": 45
+                }
+            ],
+            "total_time": 3875,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4235463919159296",
+            "customer_email": "mk124312431@gmail.com",
+            "session_id": "0555835e-883d-452b-a8c2-cdb77ff73557.1762355530",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762355538258,
+                    "duration": 57
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762355595542,
+                    "duration": 2361
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762357956656,
+                    "duration": 1193
+                }
+            ],
+            "total_time": 3611,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50514994184",
+            "customer_email": "eplaceorders@yopmail.com",
+            "session_id": "8161d02f-4ced-4d7a-8d26-bca0ff7d5f92.1762438612639",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762443416495,
+                    "duration": 34
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762443450817,
+                    "duration": 22
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762443472859,
+                    "duration": 2715
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762446187938,
+                    "duration": 681
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762446869880,
+                    "duration": 45
+                }
+            ],
+            "total_time": 3497,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "4472754825095936",
+            "customer_email": "hari1@gmail.com",
+            "session_id": "ba8171de-99e1-422c-8152-a2bfcbfedfdd.1762422773",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762423026734,
+                    "duration": 86
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762423113396,
+                    "duration": 77
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762423190849,
+                    "duration": 7
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762423198633,
+                    "duration": 250
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762423448801,
+                    "duration": 751
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762424200281,
+                    "duration": 2155
+                }
+            ],
+            "total_time": 3326,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "20569335709",
+            "customer_email": "hsb@yopmail.com",
+            "session_id": "a318748d-f780-45f1-8e80-8a2c1ffa0ca7.1762372826487",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762372830020,
+                    "duration": 3178
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762376008867,
+                    "duration": 45
+                }
+            ],
+            "total_time": 3223,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50453130188",
+            "customer_email": "qa3@mail.ua",
+            "session_id": "e7063ab8-6a06-4e18-a5bf-6f3232e5735e.1762368787",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762368787668,
+                    "duration": 7
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762368794823,
+                    "duration": 2
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762368797340,
+                    "duration": 3181
+                }
+            ],
+            "total_time": 3190,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20402617437",
+            "customer_email": "qa44@r.com",
+            "session_id": "7dde25ab-5dd4-4848-9fe0-09f6b0269c95.1762473751",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762473752317,
+                    "duration": 793
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762474545337,
+                    "duration": 2358
+                }
+            ],
+            "total_time": 3151,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "d05cf289-0850-42f1-8e76-0803b7c453cd",
+            "customer_email": "customer_12@example.com",
+            "session_id": "77358163-b366-464c-8c44-6563ee15f7ea.1762560476",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762560539172,
+                    "duration": 17
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762560556229,
+                    "duration": 3081
+                }
+            ],
+            "total_time": 3098,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "20726723457",
+            "customer_email": "jasoyiw814@eoilup.com",
+            "session_id": "58ba232f-9cc0-4cbf-ba10-ddb0a531ff62.1762445542",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762445565877,
+                    "duration": 82
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762445647916,
+                    "duration": 88
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762445736217,
+                    "duration": 1222
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762446958580,
+                    "duration": 1641
+                }
+            ],
+            "total_time": 3033,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4364872617457024",
+            "customer_email": "newuser201@yopmail.com",
+            "session_id": "1e8b2dc4-517c-418b-b85d-1b4564f14b5d.1762405221",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762405225403,
+                    "duration": 46
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762405272253,
+                    "duration": 2910
+                }
+            ],
+            "total_time": 2956,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "20271233816",
+            "customer_email": "qa4_1@yopmail.com",
+            "session_id": "6892934a-4566-41e1-900a-25ca64af0d65.1762428151259",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762428161627,
+                    "duration": 80
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762428241914,
+                    "duration": 11
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762428253446,
+                    "duration": 20
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762428274198,
+                    "duration": 2645
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762430919481,
+                    "duration": 45
+                }
+            ],
+            "total_time": 2801,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "20402617437",
+            "customer_email": "qa44@r.com",
+            "session_id": "7dde25ab-5dd4-4848-9fe0-09f6b0269c95.1762210160",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762211304198,
+                    "duration": 1075
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762212380021,
+                    "duration": 1658
+                }
+            ],
+            "total_time": 2733,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "20120980012",
+            "customer_email": "alla.chumak@sephora.com",
+            "session_id": "9e47b793-21ca-4409-86f7-55833c2e5d5d.1762376046323",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762377569186,
+                    "duration": 2
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762377571999,
+                    "duration": 4
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762377576077,
+                    "duration": 2698
+                }
+            ],
+            "total_time": 2704,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "4268792402867200",
+            "customer_email": "promopointstest_0826@yopmail.com",
+            "session_id": "c97f4664-cef3-41c7-8561-56c30ee967ac.1762158939737",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762160850170,
+                    "duration": 313
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762161164109,
+                    "duration": 4
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762161168123,
+                    "duration": 15
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762161183389,
+                    "duration": 2270
+                }
+            ],
+            "total_time": 2602,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "4176220190158080",
+            "customer_email": "mitek2004@yopmail.com",
+            "session_id": "d7da2aba-5378-4764-beb6-364d5619a935.1762181994",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762181994855,
+                    "duration": 8
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762182003177,
+                    "duration": 2
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762182005830,
+                    "duration": 2510
+                }
+            ],
+            "total_time": 2520,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20732501092",
+            "customer_email": "qa4_new@mail.ua",
+            "session_id": "e7063ab8-6a06-4e18-a5bf-6f3232e5735e.1762163023",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762163024215,
+                    "duration": 5
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762163029283,
+                    "duration": 1
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762163031238,
+                    "duration": 1295
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762164326635,
+                    "duration": 1196
+                }
+            ],
+            "total_time": 2497,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20257482127",
+            "customer_email": "qa4test@yopmail.com",
+            "session_id": "138e9213-9a65-4db3-b129-f91d6ac103de.1762155321414",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762160469910,
+                    "duration": 31
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762160500977,
+                    "duration": 5
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762160506633,
+                    "duration": 37
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762160544046,
+                    "duration": 2412
+                }
+            ],
+            "total_time": 2485,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "3876523587622784",
+            "customer_email": "gustavo.push@yopmail.com",
+            "session_id": "5229ee59-c7cf-4d59-87c7-2b88ed69d9ca.1762281854",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762281862427,
+                    "duration": 8
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762281870997,
+                    "duration": 13
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762281884506,
+                    "duration": 2
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762281886694,
+                    "duration": 44
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762281930891,
+                    "duration": 2391
+                }
+            ],
+            "total_time": 2458,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20636669020",
+            "customer_email": "nbc1@sephora.com",
+            "session_id": "efc39f3e-e66c-4a9b-b90b-ddeddefdc6cb.1761653823953",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1761657210312,
+                    "duration": 7
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1761657217643,
+                    "duration": 96
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1761657314299,
+                    "duration": 2335
+                }
+            ],
+            "total_time": 2438,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "4076833658824448",
+            "customer_email": "stark@yopmail.com",
+            "session_id": "26d757e2-b640-4fc1-a1aa-e668c68d126a.1762416653489",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762418736743,
+                    "duration": 37
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762418774409,
+                    "duration": 599
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762419373952,
+                    "duration": 56
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762419430827,
+                    "duration": 298
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762419729815,
+                    "duration": 1383
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762421113049,
+                    "duration": 45
+                }
+            ],
+            "total_time": 2418,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "4254147418632832",
+            "customer_email": "gh21@yopmail.com",
+            "session_id": "28ee6577-4ec6-48e3-9f1e-390949318407.1762404642",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762404646553,
+                    "duration": 14
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762404661160,
+                    "duration": 95
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762404757001,
+                    "duration": 45
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762404802768,
+                    "duration": 60
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762404862824,
+                    "duration": 2148
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762407010908,
+                    "duration": 45
+                }
+            ],
+            "total_time": 2407,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "20065400395",
+            "customer_email": "qa@seph.com",
+            "session_id": "644acb2e-09c3-477d-9a46-34e7b664647a.1762513125940",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762513257526,
+                    "duration": 2348
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762515606123,
+                    "duration": 45
+                }
+            ],
+            "total_time": 2393,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20624180000",
+            "customer_email": "bango@yopmail.com",
+            "session_id": "b7069340-32ba-443e-8f25-d6bb0736ae3f.1762408445",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762408449462,
+                    "duration": 296
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762408745649,
+                    "duration": 2012
+                }
+            ],
+            "total_time": 2308,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "20402617437",
+            "customer_email": "qa44@r.com",
+            "session_id": "7dde25ab-5dd4-4848-9fe0-09f6b0269c95.1762383952",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762383952160,
+                    "duration": 681
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762384633747,
+                    "duration": 1611
+                }
+            ],
+            "total_time": 2292,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "20729540306",
+            "customer_email": "praveen2@sephora.com",
+            "session_id": "efc39f3e-e66c-4a9b-b90b-ddeddefdc6cb.1761653823953",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1761653832981,
+                    "duration": 11
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1761653844328,
+                    "duration": 2270
+                }
+            ],
+            "total_time": 2281,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50786102237",
+            "customer_email": "sakshised5@gmail.com",
+            "session_id": "34c294d9-b3a4-4848-9ed2-0f17b327b7a4.1762499233957",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762499283064,
+                    "duration": 222
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762499505753,
+                    "duration": 489
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762499995615,
+                    "duration": 85
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762500080838,
+                    "duration": 68
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762500149786,
+                    "duration": 1356
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762501506461,
+                    "duration": 45
+                }
+            ],
+            "total_time": 2265,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "4370497342896640",
+            "customer_email": "2025.19_3ce4234f_auto@yopmail.com",
+            "session_id": "cb2e9d65-2157-44a0-9767-7c1e0845435b.1762161599645",
+            "platform": "mobile",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762162991724,
+                    "duration": 1991
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762164982885,
+                    "duration": 252
+                }
+            ],
+            "total_time": 2243,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4337566770961408",
+            "customer_email": "testqa3_test90@yopmail.com",
+            "session_id": "503eecaa-b66c-43ef-97e1-925e04211104.1762164496",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762164497266,
+                    "duration": 40
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762164537444,
+                    "duration": 11
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762164548969,
+                    "duration": 27
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762164576402,
+                    "duration": 92
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762164668995,
+                    "duration": 31
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762164700883,
+                    "duration": 2023
+                }
+            ],
+            "total_time": 2224,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "50345405219",
+            "customer_email": "testqa3@mail.com",
+            "session_id": "38f200a3-f16c-4384-9389-b3c791ae3fe2.1762272607094",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762272608506,
+                    "duration": 24
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762272632848,
+                    "duration": 831
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762273464249,
+                    "duration": 734
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762274198651,
+                    "duration": 553
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762274751803,
+                    "duration": 45
+                }
+            ],
+            "total_time": 2187,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "50453130188",
+            "customer_email": "qa3@mail.ua",
+            "session_id": "e7063ab8-6a06-4e18-a5bf-6f3232e5735e.1762348381",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762348381960,
+                    "duration": 4
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762348386437,
+                    "duration": 4
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762348391371,
+                    "duration": 2173
+                }
+            ],
+            "total_time": 2181,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "2e5c261b-886a-4158-b613-cec13e713d9b",
+            "customer_email": "customer_35@example.com",
+            "session_id": "1e8b2dc4-517c-418b-b85d-1b4564f14b5d.1762405221",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762408191754,
+                    "duration": 24
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762408216256,
+                    "duration": 2093
+                }
+            ],
+            "total_time": 2117,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50382195021",
+            "customer_email": "qa34@qa.com",
+            "session_id": "ef72e272-cb06-4bd4-a87f-18efe874f11b.1762300249",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762300250333,
+                    "duration": 7
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762300257998,
+                    "duration": 306
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762300564172,
+                    "duration": 1744
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762302309058,
+                    "duration": 45
+                }
+            ],
+            "total_time": 2102,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "4452635910129536",
+            "customer_email": "saga123@gmail.com",
+            "session_id": "327a3468-32b1-466b-b365-c2b5d221efe2.1762499008",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762499010550,
+                    "duration": 43
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762499053963,
+                    "duration": 123
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762499177688,
+                    "duration": 125
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762499302752,
+                    "duration": 1809
+                }
+            ],
+            "total_time": 2100,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50710160231",
+            "customer_email": "entry23@yopmail.com",
+            "session_id": "b3d983a0-b3a0-4041-ac1a-c7648bb1ed26.1762417070270",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762422509087,
+                    "duration": 59
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762422568352,
+                    "duration": 992
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762423560822,
+                    "duration": 382
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762423942997,
+                    "duration": 659
+                }
+            ],
+            "total_time": 2092,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "20234656404",
+            "customer_email": "o2@yopmail.com",
+            "session_id": "2784e4c2-1799-4416-b76d-54632c174d92.1762192958932",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762193066688,
+                    "duration": 70
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762193137076,
+                    "duration": 1967
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762195104467,
+                    "duration": 45
+                }
+            ],
+            "total_time": 2082,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4191949756486656",
+            "customer_email": "stark16@yopmail.com",
+            "session_id": "26d757e2-b640-4fc1-a1aa-e668c68d126a.1762416653489",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762416657293,
+                    "duration": 26
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762416683573,
+                    "duration": 14
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762416697622,
+                    "duration": 355
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762417052877,
+                    "duration": 835
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762417888566,
+                    "duration": 848
+                }
+            ],
+            "total_time": 2078,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "4337639841930240",
+            "customer_email": "s372182551@gmail.com",
+            "session_id": "cd7f788f-a474-4866-93f7-43e73e64c0c6.1762420047135",
+            "platform": "tablet web",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762420413084,
+                    "duration": 1184
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762421597343,
+                    "duration": 128
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762421725437,
+                    "duration": 470
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762422196230,
+                    "duration": 122
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762422318956,
+                    "duration": 120
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762422439287,
+                    "duration": 45
+                }
+            ],
+            "total_time": 2069,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "3876523587622784",
+            "customer_email": "gustavo.push@yopmail.com",
+            "session_id": "5b39f3e2-9b52-4e8c-b105-1609a8bba439.1762356942",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762356943244,
+                    "duration": 8
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762356951406,
+                    "duration": 179
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762357130482,
+                    "duration": 8
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762357138526,
+                    "duration": 14
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762357152837,
+                    "duration": 61
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762357214161,
+                    "duration": 1759
+                }
+            ],
+            "total_time": 2029,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "4254794456527872",
+            "customer_email": "qa3_bbe2e_17@yopmail.com",
+            "session_id": "40a241ef-8953-4c22-93c7-d5630f70aed9.1762516762801",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762516794241,
+                    "duration": 47
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762516841802,
+                    "duration": 1363
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762518204880,
+                    "duration": 551
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762518755988,
+                    "duration": 45
+                }
+            ],
+            "total_time": 2006,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "50706164221",
+            "customer_email": "test_500@yopmail.com",
+            "session_id": "1070fb5a-21eb-4647-90b2-05c240f5da8f.1762149535421",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762149541293,
+                    "duration": 44
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762149586238,
+                    "duration": 1816
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762151402707,
+                    "duration": 32
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762151434770,
+                    "duration": 16
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762151451313,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1953,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20234656404",
+            "customer_email": "o2@yopmail.com",
+            "session_id": "6601f970-9f70-4578-9c57-3b80bd775571.1762534478218",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762534479667,
+                    "duration": 830
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762535310414,
+                    "duration": 45
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762535310436,
+                    "duration": 784
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762536094864,
+                    "duration": 253
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762536348197,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1912,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "50453130188",
+            "customer_email": "qa3@mail.ua",
+            "session_id": "e7063ab8-6a06-4e18-a5bf-6f3232e5735e.1762359686",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762359686564,
+                    "duration": 3
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762359690331,
+                    "duration": 3
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762359693447,
+                    "duration": 1874
+                }
+            ],
+            "total_time": 1880,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20402617437",
+            "customer_email": "qa44@r.com",
+            "session_id": "7dde25ab-5dd4-4848-9fe0-09f6b0269c95.1762299506",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762299507218,
+                    "duration": 1834
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762301341545,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1879,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50453130188",
+            "customer_email": "qa3@mail.ua",
+            "session_id": "e7063ab8-6a06-4e18-a5bf-6f3232e5735e.1762346460",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762346460866,
+                    "duration": 4
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762346464887,
+                    "duration": 4
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762346468972,
+                    "duration": 1871
+                }
+            ],
+            "total_time": 1879,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20343611114",
+            "customer_email": "qa34@qa.com",
+            "session_id": "5a042b76-e656-4258-9356-cd047dbb39dc.1762451200",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762451200611,
+                    "duration": 5
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762451205825,
+                    "duration": 4
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762451210593,
+                    "duration": 1866
+                }
+            ],
+            "total_time": 1875,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "4464081706282880",
+            "customer_email": "testsplitfc@yopmail.com",
+            "session_id": "549370f8-e395-454f-9e54-5a9dc51cfbb8.1762407680",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762407682455,
+                    "duration": 1
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762407683587,
+                    "duration": 225
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762407908994,
+                    "duration": 18
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762407927680,
+                    "duration": 1599
+                }
+            ],
+            "total_time": 1843,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20492756317",
+            "customer_email": "rougeemseg1@yopmail.com",
+            "session_id": "8161d02f-4ced-4d7a-8d26-bca0ff7d5f92.1762438612639",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762441282898,
+                    "duration": 10
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762441293281,
+                    "duration": 1811
+                }
+            ],
+            "total_time": 1821,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "50705217791",
+            "customer_email": "testqa3_test@mail.com",
+            "session_id": "1f090c76-3cb9-4db1-8d48-170baaa7d110.1762370049",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762370050266,
+                    "duration": 38
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762370089105,
+                    "duration": 1781
+                }
+            ],
+            "total_time": 1819,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50789172843",
+            "customer_email": "qa3_new@mail.ua",
+            "session_id": "e7063ab8-6a06-4e18-a5bf-6f3232e5735e.1762180376",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762180377491,
+                    "duration": 5
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762180383022,
+                    "duration": 3
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762180386462,
+                    "duration": 71
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762180458070,
+                    "duration": 1714
+                }
+            ],
+            "total_time": 1793,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "4098815691828096",
+            "customer_email": "ambika@yopmail.com",
+            "session_id": "7aab92fe-ce21-499c-9728-985c403fa360.1762429488208",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762429522779,
+                    "duration": 19
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762429542166,
+                    "duration": 20
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762429562773,
+                    "duration": 41
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762429603797,
+                    "duration": 112
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762429716406,
+                    "duration": 1545
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762431261877,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1782,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "4098815691828096",
+            "customer_email": "ambika@yopmail.com",
+            "session_id": "7aab92fe-ce21-499c-9728-985c403fa360.1762417699984",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762417733507,
+                    "duration": 29
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762417762809,
+                    "duration": 19
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762417782126,
+                    "duration": 6
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762417788705,
+                    "duration": 1199
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762418987990,
+                    "duration": 473
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762419461019,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1771,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "50382195021",
+            "customer_email": "qa34@qa.com",
+            "session_id": "b77f73e7-9d45-4699-9a4c-6c6cd8456437.1762496073",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762496073634,
+                    "duration": 5
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762496079626,
+                    "duration": 4
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762496084242,
+                    "duration": 160
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762496244248,
+                    "duration": 1556
+                }
+            ],
+            "total_time": 1725,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "4176220190158080",
+            "customer_email": "mitek2004@yopmail.com",
+            "session_id": "d7da2aba-5378-4764-beb6-364d5619a935.1762179252",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762179252542,
+                    "duration": 11
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762179263634,
+                    "duration": 65
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762179328728,
+                    "duration": 1634
+                }
+            ],
+            "total_time": 1710,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "50539882666",
+            "customer_email": "stan.ford48@yopmail.com",
+            "session_id": "9e47b793-21ca-4409-86f7-55833c2e5d5d.1762470951820",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762471150049,
+                    "duration": 5
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762471155380,
+                    "duration": 58
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762471213794,
+                    "duration": 63
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762471277469,
+                    "duration": 1560
+                }
+            ],
+            "total_time": 1686,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "20219043331",
+            "customer_email": "mitek2004@gmail.com",
+            "session_id": "d7da2aba-5378-4764-beb6-364d5619a935.1762171709",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762171710929,
+                    "duration": 18
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762171729266,
+                    "duration": 63
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762171793078,
+                    "duration": 57
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762171850150,
+                    "duration": 6
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762171856986,
+                    "duration": 1514
+                }
+            ],
+            "total_time": 1658,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "4447574623076608",
+            "customer_email": "qa4capp@yopmail.com",
+            "session_id": "83d86f3b-f632-4f59-8f91-e80c8e6aa4bc.1762157224049",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762157231099,
+                    "duration": 4
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762157236022,
+                    "duration": 46
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762157282108,
+                    "duration": 5
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762157287742,
+                    "duration": 196
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762157484590,
+                    "duration": 1357
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762158842112,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1653,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "20624180000",
+            "customer_email": "bango@yopmail.com",
+            "session_id": "d6026351-0dd6-46b7-9e7f-b171015dcf9b.1762149977",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762149978031,
+                    "duration": 95
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762150073656,
+                    "duration": 407
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762150481155,
+                    "duration": 6
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762150487970,
+                    "duration": 1139
+                }
+            ],
+            "total_time": 1647,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50781071210",
+            "customer_email": "abhi_jan@gmail.com",
+            "session_id": "227f9f00-33df-4bd5-a0b4-de514c90e528.1762433598535",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762433658279,
+                    "duration": 6
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762433665250,
+                    "duration": 1640
+                }
+            ],
+            "total_time": 1646,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50453130188",
+            "customer_email": "qa3@mail.ua",
+            "session_id": "e7063ab8-6a06-4e18-a5bf-6f3232e5735e.1762351156",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762351157075,
+                    "duration": 4
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762351162030,
+                    "duration": 4
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762351166919,
+                    "duration": 1635
+                }
+            ],
+            "total_time": 1643,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "4036431100211584",
+            "customer_email": "jaisvi123@yopmail.com",
+            "session_id": "70842aed-8113-4dab-bf00-7f1fa37adc47.1762232330265",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762232513688,
+                    "duration": 360
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762232874495,
+                    "duration": 1241
+                }
+            ],
+            "total_time": 1601,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4461165249015936",
+            "customer_email": "promo11@yopmail.com",
+            "session_id": "e3bfee76-af15-400a-a176-633a588c7612.1762331919",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762331926100,
+                    "duration": 143
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762332069770,
+                    "duration": 9
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762332079056,
+                    "duration": 2
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762332081963,
+                    "duration": 7
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762332089391,
+                    "duration": 1395
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762333484942,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1601,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "64c9ddfb-e02a-4882-aac7-e3c3590e0b1b",
+            "customer_email": "customer_66@example.com",
+            "session_id": "32118db6-5674-4dd8-9964-36a55e341ec2.1762294807",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762295656341,
+                    "duration": 24
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762295681316,
+                    "duration": 90
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762295771678,
+                    "duration": 1486
+                }
+            ],
+            "total_time": 1600,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4452635910129536",
+            "customer_email": "saga123@gmail.com",
+            "session_id": "327a3468-32b1-466b-b365-c2b5d221efe2.1762501154",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762501158847,
+                    "duration": 52
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762501211124,
+                    "duration": 10
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762501221853,
+                    "duration": 4
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762501226707,
+                    "duration": 1524
+                }
+            ],
+            "total_time": 1590,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50453130188",
+            "customer_email": "qa3@mail.ua",
+            "session_id": "e7063ab8-6a06-4e18-a5bf-6f3232e5735e.1762354189",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762354189969,
+                    "duration": 8
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762354198688,
+                    "duration": 3
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762354202308,
+                    "duration": 1569
+                }
+            ],
+            "total_time": 1580,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20402617437",
+            "customer_email": "qa44@r.com",
+            "session_id": "783e12af-069e-4db7-b9e3-15fa72cdced4.1762363440",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762363440542,
+                    "duration": 4
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762363445370,
+                    "duration": 35
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762363481067,
+                    "duration": 261
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762363742323,
+                    "duration": 1272
+                }
+            ],
+            "total_time": 1572,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4470184560930944",
+            "customer_email": "mitek20042@yopmail.com",
+            "session_id": "d7da2aba-5378-4764-beb6-364d5619a935.1762351797",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762351798254,
+                    "duration": 5
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762351803871,
+                    "duration": 2
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762351806812,
+                    "duration": 1551
+                }
+            ],
+            "total_time": 1558,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20568064542",
+            "customer_email": "mannem@qa4.com",
+            "session_id": "1a539d77-1fba-4e0c-be66-1cac270f5892.1762521595",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762521604306,
+                    "duration": 8
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762521612677,
+                    "duration": 1543
+                }
+            ],
+            "total_time": 1551,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "20699567748",
+            "customer_email": "qa4_231024@yopmail.com",
+            "session_id": "d5745239-3d46-4011-8758-6e1d58e26a83.1762154140142",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762155034760,
+                    "duration": 1498
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762156532902,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1543,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4235463919159296",
+            "customer_email": "mk124312431@gmail.com",
+            "session_id": "34775e45-6cb1-494b-b584-30569de78e52.1762346713",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762346713853,
+                    "duration": 72
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762346786467,
+                    "duration": 196
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762346983005,
+                    "duration": 1264
+                }
+            ],
+            "total_time": 1532,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "20065400395",
+            "customer_email": "qa@seph.com",
+            "session_id": "b666464e-9ee9-42de-a8c1-c77cab4860df.1762510523",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762510524209,
+                    "duration": 9
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762510533796,
+                    "duration": 22
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762510556751,
+                    "duration": 1500
+                }
+            ],
+            "total_time": 1531,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20732501092",
+            "customer_email": "qa4_new@mail.ua",
+            "session_id": "e7063ab8-6a06-4e18-a5bf-6f3232e5735e.1762166796",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762166812230,
+                    "duration": 3
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762166815658,
+                    "duration": 36
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762166852436,
+                    "duration": 1489
+                }
+            ],
+            "total_time": 1528,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "fa6c4db7-537b-4530-b7a2-26261b1f5908",
+            "customer_email": "customer_76@example.com",
+            "session_id": "8658b13e-bb64-44b8-ad13-9d8fb42f2e41.1762168554397",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762170250695,
+                    "duration": 1479
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762171730338,
+                    "duration": 45
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762171730409,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1524,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50663740334",
+            "customer_email": "qa3paze@yopmail.com",
+            "session_id": "9e47b793-21ca-4409-86f7-55833c2e5d5d.1762376046323",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762376049651,
+                    "duration": 57
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762376106766,
+                    "duration": 9
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762376116699,
+                    "duration": 5
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762376122330,
+                    "duration": 1446
+                }
+            ],
+            "total_time": 1517,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "50624354994",
+            "customer_email": "mar1201@yopmail.com",
+            "session_id": "70f43693-298d-4b3e-88f4-7165217b951c.1762503255799",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762503261899,
+                    "duration": 35
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762503297303,
+                    "duration": 11
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762503308812,
+                    "duration": 104
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762503413389,
+                    "duration": 1320
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762504734271,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1515,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "4470007324094592",
+            "customer_email": "samtest123optmeown@yopmail.com",
+            "session_id": "2a5fe49a-87ce-4d02-9717-89d563666d89.1762346731562",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762351057091,
+                    "duration": 6
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762351063785,
+                    "duration": 3
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762351067031,
+                    "duration": 1456
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762352523854,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1510,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4337639841930240",
+            "customer_email": "s372182551@gmail.com",
+            "session_id": "cd7f788f-a474-4866-93f7-43e73e64c0c6.1762259534366",
+            "platform": "tablet web",
+            "steps": [
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762259538056,
+                    "duration": 176
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762259714885,
+                    "duration": 28
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762259742986,
+                    "duration": 663
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762260406430,
+                    "duration": 569
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762260976215,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1481,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "20729540306",
+            "customer_email": "praveen2@sephora.com",
+            "session_id": "284c03db-c2f4-4e98-8908-98907d426207.1762430719051",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762430876643,
+                    "duration": 138
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762431015382,
+                    "duration": 23
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762431039163,
+                    "duration": 172
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762431212114,
+                    "duration": 1092
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762432304645,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1470,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20240762189",
+            "customer_email": "yuvi123@yopmail.com",
+            "session_id": "ba220925-da27-41bd-8ae1-fae03a1b711d.1762156474",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762156477014,
+                    "duration": 9
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762156486256,
+                    "duration": 35
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762156521365,
+                    "duration": 8
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762156529518,
+                    "duration": 10
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762156540078,
+                    "duration": 253
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762156793478,
+                    "duration": 1152
+                }
+            ],
+            "total_time": 1467,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "4472328986210432",
+            "customer_email": "new.address@gmail.com",
+            "session_id": "644acb2e-09c3-477d-9a46-34e7b664647a.1762408807394",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762409009678,
+                    "duration": 20
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762409030240,
+                    "duration": 14
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762409044875,
+                    "duration": 1429
+                }
+            ],
+            "total_time": 1463,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50453130188",
+            "customer_email": "qa3@mail.ua",
+            "session_id": "e7063ab8-6a06-4e18-a5bf-6f3232e5735e.1762358208",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762358215485,
+                    "duration": 484
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762358699537,
+                    "duration": 21
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762358720918,
+                    "duration": 951
+                }
+            ],
+            "total_time": 1456,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "50453130188",
+            "customer_email": "qa3@mail.ua",
+            "session_id": "e7063ab8-6a06-4e18-a5bf-6f3232e5735e.1762528696",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762528698144,
+                    "duration": 4
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762528702661,
+                    "duration": 1452
+                }
+            ],
+            "total_time": 1456,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20111020582",
+            "customer_email": "kir@seph.com",
+            "session_id": "0ccc8446-29dd-4522-810e-577c1f92e651.1762266066147",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762266121235,
+                    "duration": 1402
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762267523352,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1447,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "20624180000",
+            "customer_email": "bango@yopmail.com",
+            "session_id": "d6026351-0dd6-46b7-9e7f-b171015dcf9b.1762146377",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762146381466,
+                    "duration": 13
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762146394512,
+                    "duration": 178
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762146573320,
+                    "duration": 23
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762146596875,
+                    "duration": 1225
+                }
+            ],
+            "total_time": 1439,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4235463919159296",
+            "customer_email": "mk124312431@gmail.com",
+            "session_id": "eca4d117-4898-4a5e-9a11-b49a91fe5d3e.1762267255",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762267361403,
+                    "duration": 63
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762267425129,
+                    "duration": 1353
+                }
+            ],
+            "total_time": 1416,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50736177050",
+            "customer_email": "suchi@yopmail.com",
+            "session_id": "ac373114-26bc-4c4d-82ff-69f7a597f17c.1762421092877",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762421161105,
+                    "duration": 659
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762421820586,
+                    "duration": 5
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762421825596,
+                    "duration": 746
+                }
+            ],
+            "total_time": 1410,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50382195021",
+            "customer_email": "qa34@qa.com",
+            "session_id": "ef72e272-cb06-4bd4-a87f-18efe874f11b.1762194866",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762194878943,
+                    "duration": 3
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762194881999,
+                    "duration": 179
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762195061769,
+                    "duration": 1214
+                }
+            ],
+            "total_time": 1396,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "4452635910129536",
+            "customer_email": "saga123@gmail.com",
+            "session_id": "efc9c912-4b35-4844-b30f-1ea65172c10b.1762412865",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762412903769,
+                    "duration": 14
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762412917792,
+                    "duration": 8
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762412925846,
+                    "duration": 521
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762413447079,
+                    "duration": 851
+                }
+            ],
+            "total_time": 1394,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4449737850470656",
+            "customer_email": "29october@yopmail.com",
+            "session_id": "70a67b85-2b52-43d4-8dd5-9d003594f891.1762246314951",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762246360165,
+                    "duration": 1343
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762247703845,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1388,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4337639841930240",
+            "customer_email": "s372182551@gmail.com",
+            "session_id": "cd7f788f-a474-4866-93f7-43e73e64c0c6.1762187897036",
+            "platform": "tablet web",
+            "steps": [
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762187936265,
+                    "duration": 122
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762188058732,
+                    "duration": 1265
+                }
+            ],
+            "total_time": 1387,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4235463919159296",
+            "customer_email": "mk124312431@gmail.com",
+            "session_id": "34775e45-6cb1-494b-b584-30569de78e52.1762351726",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762351726527,
+                    "duration": 13
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762351740106,
+                    "duration": 1371
+                }
+            ],
+            "total_time": 1384,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4475896565191808",
+            "customer_email": "2025.20_47717b17_auto@yopmail.com",
+            "session_id": "90d7e706-7ddc-4fc8-8f74-5c8e6252f6b1.1762517635732",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762517822893,
+                    "duration": 8
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762517831815,
+                    "duration": 255
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762518087461,
+                    "duration": 7
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762518094865,
+                    "duration": 1069
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762519163994,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1384,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "4447574623076608",
+            "customer_email": "qa4capp@yopmail.com",
+            "session_id": "a67629df-f4d6-4899-87ec-90c72395c8ab.1762340656",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762340752833,
+                    "duration": 37
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762340790470,
+                    "duration": 1337
+                }
+            ],
+            "total_time": 1374,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4354218837196544",
+            "customer_email": "olt26-4@yopmail.com",
+            "session_id": "022d11bc-7780-4b5f-934d-770f1d5dfa1e.1762244003915",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762244004411,
+                    "duration": 1124
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762245128689,
+                    "duration": 249
+                }
+            ],
+            "total_time": 1373,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20402617437",
+            "customer_email": "qa44@r.com",
+            "session_id": "7dde25ab-5dd4-4848-9fe0-09f6b0269c95.1762206082",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762206083455,
+                    "duration": 7
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762206091354,
+                    "duration": 1361
+                }
+            ],
+            "total_time": 1368,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50453130188",
+            "customer_email": "qa3@mail.ua",
+            "session_id": "e7063ab8-6a06-4e18-a5bf-6f3232e5735e.1762371992",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762371993345,
+                    "duration": 6
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762371999830,
+                    "duration": 2
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762372002060,
+                    "duration": 1349
+                }
+            ],
+            "total_time": 1357,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20726723457",
+            "customer_email": "jasoyiw814@eoilup.com",
+            "session_id": "9c9bbb22-aa90-4aaf-a288-2f05d1a92512.1762289702",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762289724529,
+                    "duration": 60
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762289785375,
+                    "duration": 1291
+                }
+            ],
+            "total_time": 1351,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4020568316822400",
+            "customer_email": "harika.venmo@yopmail.com",
+            "session_id": "40f11ce8-b04a-4805-864d-87ed8c84d182.1762542838489",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762543176065,
+                    "duration": 16
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762543192362,
+                    "duration": 7
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762543200051,
+                    "duration": 181
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762543381886,
+                    "duration": 1101
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762544483771,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1350,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "20611462182",
+            "customer_email": "yurii.r_qa3_2@gmail.com",
+            "session_id": "52d6345a-3c48-40ae-a40b-dfdb19ec5d09.1762165944",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762165948917,
+                    "duration": 10
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762165959851,
+                    "duration": 1333
+                }
+            ],
+            "total_time": 1343,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50453130188",
+            "customer_email": "qa3@mail.ua",
+            "session_id": "e7063ab8-6a06-4e18-a5bf-6f3232e5735e.1762352823",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762352824389,
+                    "duration": 4
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762352829281,
+                    "duration": 4
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762352834198,
+                    "duration": 1329
+                }
+            ],
+            "total_time": 1337,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "30287224002",
+            "customer_email": "mitek2004@gmail.com",
+            "session_id": "d7da2aba-5378-4764-beb6-364d5619a935.1762173731",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762173731753,
+                    "duration": 12
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762173744168,
+                    "duration": 5
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762173749859,
+                    "duration": 1318
+                }
+            ],
+            "total_time": 1335,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "50453130188",
+            "customer_email": "qa3@mail.ua",
+            "session_id": "e7063ab8-6a06-4e18-a5bf-6f3232e5735e.1762335492",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762335492440,
+                    "duration": 4
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762335496694,
+                    "duration": 4
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762335501114,
+                    "duration": 1312
+                }
+            ],
+            "total_time": 1320,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "4467297852779264",
+            "customer_email": "vi1104250@yopmail.com",
+            "session_id": "4066f1ff-8104-4b3f-b623-59f511051408.1762254417393",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762255424054,
+                    "duration": 65
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762255489248,
+                    "duration": 27
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762255516452,
+                    "duration": 165
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762255681734,
+                    "duration": 33
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762255715216,
+                    "duration": 1029
+                }
+            ],
+            "total_time": 1319,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "20641979809",
+            "customer_email": "yurii.r_qa4_10@gmail.com",
+            "session_id": "52d6345a-3c48-40ae-a40b-dfdb19ec5d09.1762183669",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762183843323,
+                    "duration": 1273
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762185117227,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1318,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "b7dc95d3-96ac-4eb8-8cf1-74ed95bf7ba0",
+            "customer_email": "customer_108@example.com",
+            "session_id": "32118db6-5674-4dd8-9964-36a55e341ec2.1762209737",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762210076143,
+                    "duration": 86
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762210163101,
+                    "duration": 1229
+                }
+            ],
+            "total_time": 1315,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4467216580391040",
+            "customer_email": "dzmitry3@gmail.com",
+            "session_id": "bc646c02-f877-4727-a26b-6ebaf880d465.1762453429",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762453452671,
+                    "duration": 1266
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762454719269,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1311,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50382195021",
+            "customer_email": "qa34@qa.com",
+            "session_id": "5a042b76-e656-4258-9356-cd047dbb39dc.1762367131",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762367131413,
+                    "duration": 7
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762367138598,
+                    "duration": 3
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762367142300,
+                    "duration": 1209
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762368351812,
+                    "duration": 31
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762368382908,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1295,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "4475919333315712",
+            "customer_email": "yfrwgy@yopmail.com",
+            "session_id": "122c645c-59d2-4639-84ea-8d405dc3375b.1762518243431",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762518471879,
+                    "duration": 5
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762518477645,
+                    "duration": 6
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762518483864,
+                    "duration": 96
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762518580387,
+                    "duration": 1178
+                }
+            ],
+            "total_time": 1285,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "370078fe-0ec4-4ac4-99e9-9a61c8a4bd7c",
+            "customer_email": "customer_112@example.com",
+            "session_id": "77358163-b366-464c-8c44-6563ee15f7ea.1762547056",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762549221679,
+                    "duration": 1259
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762550481630,
+                    "duration": 26
+                }
+            ],
+            "total_time": 1285,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4464464792736896",
+            "customer_email": "rayrayray@yopmail.com",
+            "session_id": "d71ac6e9-40c3-423e-896e-587f9e27792a.1762170375599",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762170390173,
+                    "duration": 6
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762170396627,
+                    "duration": 47
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762170444013,
+                    "duration": 37
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762170481225,
+                    "duration": 252
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762170733992,
+                    "duration": 863
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762171597220,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1250,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "f8865ad6-9d6d-4535-8917-32a825543ede",
+            "customer_email": "customer_114@example.com",
+            "session_id": "4a63c300-8d8c-4279-936a-fa3e7d93d1d8.1762247716",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762252904759,
+                    "duration": 78
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762252983711,
+                    "duration": 1142
+                }
+            ],
+            "total_time": 1220,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4455987980033536",
+            "customer_email": "frcq48@yopmail.com",
+            "session_id": "e1b7198b-6658-4c25-96e1-d3c46243ef2e.1762434404188",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762434409297,
+                    "duration": 168
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762434577894,
+                    "duration": 994
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762435572601,
+                    "duration": 7
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762435580120,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1214,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "20402617437",
+            "customer_email": "qa44@r.com",
+            "session_id": "7dde25ab-5dd4-4848-9fe0-09f6b0269c95.1762297098",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762297098770,
+                    "duration": 7
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762297106226,
+                    "duration": 1198
+                }
+            ],
+            "total_time": 1205,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50453130188",
+            "customer_email": "qa3@mail.ua",
+            "session_id": "e7063ab8-6a06-4e18-a5bf-6f3232e5735e.1762288708",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762288708281,
+                    "duration": 5
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762288713729,
+                    "duration": 4
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762288718599,
+                    "duration": 1146
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762289865371,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1200,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20271233816",
+            "customer_email": "qa4_1@yopmail.com",
+            "session_id": "a9086c73-e51a-4157-86ed-e30e9b026caf.1762155823011",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762155937767,
+                    "duration": 9
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762155947184,
+                    "duration": 278
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762156225347,
+                    "duration": 279
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762156504452,
+                    "duration": 581
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762157085712,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1192,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "030dfb42-f284-4378-846f-50fd25f84760",
+            "customer_email": "customer_119@example.com",
+            "session_id": "32118db6-5674-4dd8-9964-36a55e341ec2.1762209737",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762212544843,
+                    "duration": 1167
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762213712067,
+                    "duration": 11
+                }
+            ],
+            "total_time": 1178,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50453130188",
+            "customer_email": "qa3@mail.ua",
+            "session_id": "e7063ab8-6a06-4e18-a5bf-6f3232e5735e.1762367096",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762367096549,
+                    "duration": 6
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762367103019,
+                    "duration": 1169
+                }
+            ],
+            "total_time": 1175,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50682539518",
+            "customer_email": "qa3_rougeuser@yopmail.com",
+            "session_id": "6892934a-4566-41e1-900a-25ca64af0d65.1762433394132",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762433409619,
+                    "duration": 1118
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762435465090,
+                    "duration": 10
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762435475670,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1173,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "a0314589-120a-425f-83f5-8ace4dc8dcd3",
+            "customer_email": "customer_122@example.com",
+            "session_id": "5a042b76-e656-4258-9356-cd047dbb39dc.1762403986",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762404824599,
+                    "duration": 21
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762404846118,
+                    "duration": 1148
+                }
+            ],
+            "total_time": 1169,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4337566770961408",
+            "customer_email": "testqa3_test90@yopmail.com",
+            "session_id": "338b849f-ef0b-40b6-afca-2769bd7fa24e.1762343427",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762343428406,
+                    "duration": 79
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762343507680,
+                    "duration": 8
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762343516315,
+                    "duration": 3
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762343519497,
+                    "duration": 3
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762343523439,
+                    "duration": 7
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762343530927,
+                    "duration": 1066
+                }
+            ],
+            "total_time": 1166,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "50453130188",
+            "customer_email": "qa3@mail.ua",
+            "session_id": "e7063ab8-6a06-4e18-a5bf-6f3232e5735e.1762271063",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762271064052,
+                    "duration": 159
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762271223334,
+                    "duration": 5
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762271228385,
+                    "duration": 996
+                }
+            ],
+            "total_time": 1160,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "3703094179863296",
+            "customer_email": "ar.101@yopmail.com",
+            "session_id": "24d3f1fd-1cd3-48a2-af30-fe639f5803d9.1762500042277",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762500068384,
+                    "duration": 1104
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762501172628,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1149,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "84c78978-8a1b-43a1-a5c7-712e1e129eaf",
+            "customer_email": "customer_126@example.com",
+            "session_id": "4a63c300-8d8c-4279-936a-fa3e7d93d1d8.1762247716",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762251755608,
+                    "duration": 19
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762251775403,
+                    "duration": 1129
+                }
+            ],
+            "total_time": 1148,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50624354994",
+            "customer_email": "mar1201@yopmail.com",
+            "session_id": "8850b3cb-0f1e-40cf-b09e-6979b6374adb.1762339292907",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762339300372,
+                    "duration": 11
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762339311702,
+                    "duration": 99
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762339410818,
+                    "duration": 982
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762340393483,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1137,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "4452635910129536",
+            "customer_email": "saga123@gmail.com",
+            "session_id": "327a3468-32b1-466b-b365-c2b5d221efe2.1762502770",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762502779608,
+                    "duration": 1
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762502781415,
+                    "duration": 44
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762502825619,
+                    "duration": 1044
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762503870548,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1134,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4470007324094592",
+            "customer_email": "samtest123optmeown@yopmail.com",
+            "session_id": "11fe04db-fc75-4e91-b4fb-4efe03ea5fd8.1762337505933",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762338099081,
+                    "duration": 2
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762338101430,
+                    "duration": 3
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762338104792,
+                    "duration": 1083
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762339187965,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1133,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4464584670669568",
+            "customer_email": "nov3test@yopmail.com",
+            "session_id": "98578a2c-5a4e-4f40-aa52-ac57a67bd96e.1762255443504",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762255453715,
+                    "duration": 1087
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762256541397,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1132,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "3258867385281664",
+            "customer_email": "suchi@yopmail.com",
+            "session_id": "810cf824-b0ab-4ecc-9c63-82a4ca9cf1d7.1762524293354",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762524304796,
+                    "duration": 12
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762524317341,
+                    "duration": 84
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762524402227,
+                    "duration": 457
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762524859275,
+                    "duration": 6
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762524866108,
+                    "duration": 500
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762525366857,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1104,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "50789172843",
+            "customer_email": "qa3_new@mail.ua",
+            "session_id": "e7063ab8-6a06-4e18-a5bf-6f3232e5735e.1762426854",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762426854795,
+                    "duration": 4
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762426859735,
+                    "duration": 1
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762426861719,
+                    "duration": 17
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762426879297,
+                    "duration": 1075
+                }
+            ],
+            "total_time": 1097,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20735084554",
+            "customer_email": "mab1@sephora.com",
+            "session_id": "efc39f3e-e66c-4a9b-b90b-ddeddefdc6cb.1761653823953",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1761656115051,
+                    "duration": 9
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1761656124254,
+                    "duration": 1086
+                }
+            ],
+            "total_time": 1095,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50481935649",
+            "customer_email": "qa3_072623@yopmail.com",
+            "session_id": "2574ddfe-657d-4bda-a36c-e37dfa4d894d.1762492725299",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762492725507,
+                    "duration": 1028
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762493754435,
+                    "duration": 6
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762493760572,
+                    "duration": 7
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762493768453,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1086,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "4076833658824448",
+            "customer_email": "stark@yopmail.com",
+            "session_id": "c34d4776-c481-4c82-a7d2-c948965c415a.1762498227678",
+            "platform": "mobile",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762498574813,
+                    "duration": 66
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762498641128,
+                    "duration": 39
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762498680210,
+                    "duration": 95
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762498775983,
+                    "duration": 75
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762498851139,
+                    "duration": 758
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762499609627,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1078,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "50542992040",
+            "customer_email": "harika.sdd12@yopmail.com",
+            "session_id": "0148b1bb-65c6-4895-a62e-df9db20cf6ab.1762456722308",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762456724960,
+                    "duration": 11
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762456736509,
+                    "duration": 2
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762456739392,
+                    "duration": 2
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762456741513,
+                    "duration": 4
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762456746418,
+                    "duration": 999
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762457745608,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1063,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "50382195021",
+            "customer_email": "qa34@qa.com",
+            "session_id": "77358163-b366-464c-8c44-6563ee15f7ea.1762547056",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762547068969,
+                    "duration": 38
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762547107847,
+                    "duration": 1021
+                }
+            ],
+            "total_time": 1059,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "50453130188",
+            "customer_email": "qa3@mail.ua",
+            "session_id": "e7063ab8-6a06-4e18-a5bf-6f3232e5735e.1762287578",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762287578288,
+                    "duration": 5
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762287583356,
+                    "duration": 6
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762287589356,
+                    "duration": 1044
+                }
+            ],
+            "total_time": 1055,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "9675bec5-a95a-4e67-9fd9-bf47c2191b3c",
+            "customer_email": "customer_139@example.com",
+            "session_id": "e639f727-a3b2-41ac-9625-eb8435aac3b4.1762407107",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762407228690,
+                    "duration": 67
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762407295900,
+                    "duration": 979
+                }
+            ],
+            "total_time": 1046,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "5bb7f109-3134-4395-b37e-aa7f8b44b941",
+            "customer_email": "customer_140@example.com",
+            "session_id": "4a63c300-8d8c-4279-936a-fa3e7d93d1d8.1762170391",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762174915271,
+                    "duration": 978
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762175894011,
+                    "duration": 64
+                }
+            ],
+            "total_time": 1042,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "20568064542",
+            "customer_email": "mannem@qa4.com",
+            "session_id": "1a539d77-1fba-4e0c-be66-1cac270f5892.1762518591",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762518598655,
+                    "duration": 23
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762518621844,
+                    "duration": 78
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762518700349,
+                    "duration": 939
+                }
+            ],
+            "total_time": 1040,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "20065400395",
+            "customer_email": "qa@seph.com",
+            "session_id": "ab2a3c3d-03aa-4ec6-bf32-8cedf2a0aed2.1762418786551",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762418787717,
+                    "duration": 993
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762419781108,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1038,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "94743f39-3ca7-48cb-9dd1-ef7820a43d36",
+            "customer_email": "customer_143@example.com",
+            "session_id": "aa390b0e-ab53-4c48-ba4f-5699666b94e4.1762249942",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762250635922,
+                    "duration": 1023
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762251659358,
+                    "duration": 14
+                }
+            ],
+            "total_time": 1037,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4176220190158080",
+            "customer_email": "mitek2004@yopmail.com",
+            "session_id": "d7da2aba-5378-4764-beb6-364d5619a935.1762175172",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762175172778,
+                    "duration": 19
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762175192354,
+                    "duration": 2
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762175194685,
+                    "duration": 1016
+                }
+            ],
+            "total_time": 1037,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "4098815691828096",
+            "customer_email": "ambika@yopmail.com",
+            "session_id": "330323f5-ca7d-47ee-a054-1ac73bd4a5de.1762503196998",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762503214555,
+                    "duration": 8
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762503223213,
+                    "duration": 100
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762503323533,
+                    "duration": 53
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762503377088,
+                    "duration": 398
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762503775735,
+                    "duration": 423
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762504198758,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1027,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "3968262099402112",
+            "customer_email": "shanu01@yopmail.com",
+            "session_id": "974ea080-6dfb-4c3d-a9aa-1f4ae2be6590.1762342165899",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762343757034,
+                    "duration": 17
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762343774200,
+                    "duration": 471
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762344245842,
+                    "duration": 486
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762344732106,
+                    "duration": 7
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762344739381,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1026,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "4337566770961408",
+            "customer_email": "testqa3_test90@yopmail.com",
+            "session_id": "bc646c02-f877-4727-a26b-6ebaf880d465.1762506753",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762506753654,
+                    "duration": 974
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762507728524,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1019,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "3258867385281664",
+            "customer_email": "suchi@yopmail.com",
+            "session_id": "f8cb061c-6f6f-4ff3-8ccf-6655cb458fab.1762346367",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762346370577,
+                    "duration": 28
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762346398604,
+                    "duration": 223
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762346622284,
+                    "duration": 716
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762347338552,
+                    "duration": 45
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762347338621,
+                    "duration": 45
+                }
+            ],
+            "total_time": 1012,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "4385217082136576",
+            "customer_email": "testsusmi.106@yopmail.com",
+            "session_id": "1bc21b28-df5b-497f-b5a9-0d6c700cef52.1762340376603",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762340395797,
+                    "duration": 10
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762340406527,
+                    "duration": 5
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762340411763,
+                    "duration": 70
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762340482182,
+                    "duration": 864
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762341346847,
+                    "duration": 45
+                }
+            ],
+            "total_time": 994,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "4176220190158080",
+            "customer_email": "mitek2004@yopmail.com",
+            "session_id": "d7da2aba-5378-4764-beb6-364d5619a935.1762260974",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762260974363,
+                    "duration": 62
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762261037137,
+                    "duration": 1
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762261038807,
+                    "duration": 931
+                }
+            ],
+            "total_time": 994,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "04664555-f3f8-449e-b1cb-924fb5d9e647",
+            "customer_email": "customer_151@example.com",
+            "session_id": "32118db6-5674-4dd8-9964-36a55e341ec2.1762209737",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762213723763,
+                    "duration": 11
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762213735020,
+                    "duration": 977
+                }
+            ],
+            "total_time": 988,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4470184560930944",
+            "customer_email": "mitek20042@yopmail.com",
+            "session_id": "d7da2aba-5378-4764-beb6-364d5619a935.1762350784",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762350787187,
+                    "duration": 45
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762350787600,
+                    "duration": 985
+                }
+            ],
+            "total_time": 985,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "4176220190158080",
+            "customer_email": "mitek2004@yopmail.com",
+            "session_id": "d7da2aba-5378-4764-beb6-364d5619a935.1762180983",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762180986877,
+                    "duration": 5
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762180992744,
+                    "duration": 979
+                }
+            ],
+            "total_time": 984,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "4450625811769984",
+            "customer_email": "testsusmi.666@yopmail.com",
+            "session_id": "eddb7020-1c3c-4e1d-bdbd-eb5fea64f6e2.1762439567043",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762439573040,
+                    "duration": 10
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762439583752,
+                    "duration": 25
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762439609081,
+                    "duration": 899
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762440508093,
+                    "duration": 4
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762440512339,
+                    "duration": 45
+                }
+            ],
+            "total_time": 983,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "4469533700025088",
+            "customer_email": "nov5test@yopmail.com",
+            "session_id": "f28b752f-2a83-4700-93fd-4da06b36f51e.1762324234974",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762324240522,
+                    "duration": 827
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762325068165,
+                    "duration": 13
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762325081942,
+                    "duration": 1
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762325083795,
+                    "duration": 93
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762325176909,
+                    "duration": 45
+                }
+            ],
+            "total_time": 979,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "ea2dbdeb-6f71-46ef-a2b0-a68f89372048",
+            "customer_email": "customer_156@example.com",
+            "session_id": "aa390b0e-ab53-4c48-ba4f-5699666b94e4.1762264564",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762264584550,
+                    "duration": 936
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762265520667,
+                    "duration": 40
+                }
+            ],
+            "total_time": 976,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "314a8356-a888-4ef6-a774-bfa2cb828084",
+            "customer_email": "customer_157@example.com",
+            "session_id": "1e8b2dc4-517c-418b-b85d-1b4564f14b5d.1762509443",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762510168905,
+                    "duration": 65
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762510234028,
+                    "duration": 908
+                }
+            ],
+            "total_time": 973,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4257933612086272",
+            "customer_email": "ak33@gmail.com",
+            "session_id": "272cde9c-ffda-4ee8-a0ee-cd2a6787a94b.1762436326",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762436494692,
+                    "duration": 5
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762436500613,
+                    "duration": 967
+                }
+            ],
+            "total_time": 972,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "406673b2-77bd-4843-bf5b-abf71100a841",
+            "customer_email": "customer_159@example.com",
+            "session_id": "5fed4b46-18e2-4408-9cb5-c147a6c367fc.1762264932",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762265717393,
+                    "duration": 666
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762266383427,
+                    "duration": 305
+                }
+            ],
+            "total_time": 971,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "c70e660f-1471-4934-9fc9-57934c957f26",
+            "customer_email": "customer_160@example.com",
+            "session_id": "b9c2e768-7e3d-4774-89a5-d851526a7779.1762266410",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762266466981,
+                    "duration": 64
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762266531743,
+                    "duration": 907
+                }
+            ],
+            "total_time": 971,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "3876523587622784",
+            "customer_email": "gustavo.push@yopmail.com",
+            "session_id": "ca0facc7-96d2-47f8-ac02-0fe964247f8b.1762454990",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762455054839,
+                    "duration": 7
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762455062252,
+                    "duration": 38
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762455100333,
+                    "duration": 2
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762455103060,
+                    "duration": 917
+                }
+            ],
+            "total_time": 964,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4466818798465152",
+            "customer_email": "mihg12@gmail.com",
+            "session_id": "b6a5ef52-afa7-417f-a9e2-4fc44af67ada.1762244131560",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762244141463,
+                    "duration": 17
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762244159014,
+                    "duration": 251
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762244410631,
+                    "duration": 3
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762244414431,
+                    "duration": 634
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762245048953,
+                    "duration": 45
+                }
+            ],
+            "total_time": 950,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "3876523587622784",
+            "customer_email": "gustavo.push@yopmail.com",
+            "session_id": "ca0facc7-96d2-47f8-ac02-0fe964247f8b.1762544781",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762544782080,
+                    "duration": 11
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762544793388,
+                    "duration": 2
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762544796046,
+                    "duration": 887
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762545683567,
+                    "duration": 5
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762545689324,
+                    "duration": 45
+                }
+            ],
+            "total_time": 950,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "50779602137",
+            "customer_email": "simon2@qa3.com",
+            "session_id": "0d4b24f2-3e4e-4d25-965d-7fd9e509162e.1762254589797",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762254713147,
+                    "duration": 157
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762254870664,
+                    "duration": 10
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762254881082,
+                    "duration": 10
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762254891962,
+                    "duration": 723
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762255615187,
+                    "duration": 45
+                }
+            ],
+            "total_time": 945,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20271233816",
+            "customer_email": "qa4_1@yopmail.com",
+            "session_id": "6892934a-4566-41e1-900a-25ca64af0d65.1762433394132",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762434527712,
+                    "duration": 6
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762434534554,
+                    "duration": 14
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762434548665,
+                    "duration": 612
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762435161664,
+                    "duration": 303
+                }
+            ],
+            "total_time": 935,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "50345405219",
+            "customer_email": "testqa3@mail.com",
+            "session_id": "38f200a3-f16c-4384-9389-b3c791ae3fe2.1762533157697",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762533158286,
+                    "duration": 15
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762533174026,
+                    "duration": 3
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762533177533,
+                    "duration": 116
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762533294073,
+                    "duration": 722
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762534016466,
+                    "duration": 33
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762534049987,
+                    "duration": 45
+                }
+            ],
+            "total_time": 934,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "4176220190158080",
+            "customer_email": "mitek2004@yopmail.com",
+            "session_id": "d7da2aba-5378-4764-beb6-364d5619a935.1762177166",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762177167379,
+                    "duration": 10
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762177177437,
+                    "duration": 6
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762177184241,
+                    "duration": 916
+                }
+            ],
+            "total_time": 932,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "ac089c09-e5cd-43f8-989a-50a8b070fc11",
+            "customer_email": "customer_168@example.com",
+            "session_id": "32118db6-5674-4dd8-9964-36a55e341ec2.1762195744",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762196619835,
+                    "duration": 110
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762196730512,
+                    "duration": 821
+                }
+            ],
+            "total_time": 931,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50781511348",
+            "customer_email": "rouge.e2e@yopmail.com",
+            "session_id": "e3bfee76-af15-400a-a176-633a588c7612.1762329730",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762329731119,
+                    "duration": 61
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762329792631,
+                    "duration": 7
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762329799838,
+                    "duration": 177
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762329976943,
+                    "duration": 108
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762330085034,
+                    "duration": 530
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762330615215,
+                    "duration": 45
+                }
+            ],
+            "total_time": 928,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "20624180000",
+            "customer_email": "bango@yopmail.com",
+            "session_id": "b7069340-32ba-443e-8f25-d6bb0736ae3f.1762420835",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762420839068,
+                    "duration": 273
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762421112467,
+                    "duration": 387
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762421500358,
+                    "duration": 99
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762421599490,
+                    "duration": 120
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762421720382,
+                    "duration": 45
+                }
+            ],
+            "total_time": 924,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "4447574623076608",
+            "customer_email": "qa4capp@yopmail.com",
+            "session_id": "a67629df-f4d6-4899-87ec-90c72395c8ab.1762338542",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762338547913,
+                    "duration": 7
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762338555165,
+                    "duration": 64
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762338619528,
+                    "duration": 16
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762338636059,
+                    "duration": 833
+                }
+            ],
+            "total_time": 920,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "4466843297469568",
+            "customer_email": "customer_172@example.com",
+            "session_id": "a9aa94cd-f293-4772-82f0-23568161b487.1762240612404",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762241466555,
+                    "duration": 3
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762241469856,
+                    "duration": 917
+                }
+            ],
+            "total_time": 920,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "4190110689443840",
+            "customer_email": "frcqa48@yopmail.com",
+            "session_id": "2d65f302-2371-42cc-aa6a-79f0bb28ce49.1762254663855",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762254702858,
+                    "duration": 873
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762255576390,
+                    "duration": 45
+                }
+            ],
+            "total_time": 918,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4464289861719168",
+            "customer_email": "customer_174@example.com",
+            "session_id": "138e9213-9a65-4db3-b129-f91d6ac103de.1762155321414",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762163541062,
+                    "duration": 4
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762163545126,
+                    "duration": 909
+                }
+            ],
+            "total_time": 913,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "37c50f27-34fd-43ff-8a73-3fe3414a0139",
+            "customer_email": "customer_175@example.com",
+            "session_id": "32118db6-5674-4dd8-9964-36a55e341ec2.1762209737",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762211636320,
+                    "duration": 61
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762211698011,
+                    "duration": 846
+                }
+            ],
+            "total_time": 907,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "20448991435",
+            "customer_email": "viqa4@yopmail.com",
+            "session_id": "4066f1ff-8104-4b3f-b623-59f511051408.1762254417393",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762254516194,
+                    "duration": 675
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762255191885,
+                    "duration": 232
+                }
+            ],
+            "total_time": 907,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4153090998052096",
+            "customer_email": "mini10@sephora.com",
+            "session_id": "1cd4d67d-bb46-4e98-83e1-224aada48df9.1762292366691",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762292377807,
+                    "duration": 10
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762292388798,
+                    "duration": 123
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762292512277,
+                    "duration": 30
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762292542574,
+                    "duration": 737
+                }
+            ],
+            "total_time": 900,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "50453130188",
+            "customer_email": "qa3@mail.ua",
+            "session_id": "e7063ab8-6a06-4e18-a5bf-6f3232e5735e.1762270098",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762270098798,
+                    "duration": 4
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762270103614,
+                    "duration": 5
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762270109511,
+                    "duration": 891
+                }
+            ],
+            "total_time": 900,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20511935697",
+            "customer_email": "chandrasekhar.r@truglobal.com",
+            "session_id": "b9c2e768-7e3d-4774-89a5-d851526a7779.1762328595",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762328595813,
+                    "duration": 71
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762328666911,
+                    "duration": 828
+                }
+            ],
+            "total_time": 899,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "50382195021",
+            "customer_email": "qa34@qa.com",
+            "session_id": "ef72e272-cb06-4bd4-a87f-18efe874f11b.1762299319",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762299328297,
+                    "duration": 26
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762299354992,
+                    "duration": 4
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762299359548,
+                    "duration": 869
+                }
+            ],
+            "total_time": 899,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20128460606",
+            "customer_email": "olechka@yopmail.com",
+            "session_id": "8161d02f-4ced-4d7a-8d26-bca0ff7d5f92.1762438612639",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762438640435,
+                    "duration": 13
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762438654155,
+                    "duration": 8
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762438662202,
+                    "duration": 6
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762438668541,
+                    "duration": 866
+                }
+            ],
+            "total_time": 893,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "4467526080260864",
+            "customer_email": "nov4test@yopmail.com",
+            "session_id": "98578a2c-5a4e-4f40-aa52-ac57a67bd96e.1762262299053",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762262305066,
+                    "duration": 317
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762262622712,
+                    "duration": 56
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762262679340,
+                    "duration": 3
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762262682936,
+                    "duration": 458
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762263141505,
+                    "duration": 45
+                }
+            ],
+            "total_time": 879,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20624180000",
+            "customer_email": "bango@yopmail.com",
+            "session_id": "d6026351-0dd6-46b7-9e7f-b171015dcf9b.1762148651",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762148652919,
+                    "duration": 35
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762148688585,
+                    "duration": 555
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762149244510,
+                    "duration": 10
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762149255163,
+                    "duration": 226
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762149481669,
+                    "duration": 45
+                }
+            ],
+            "total_time": 871,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "50686007860",
+            "customer_email": "su@yopmail.com",
+            "session_id": "40f11ce8-b04a-4805-864d-87ed8c84d182.1762376208549",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762376543250,
+                    "duration": 6
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762376549592,
+                    "duration": 178
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762376728360,
+                    "duration": 640
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762377368680,
+                    "duration": 45
+                }
+            ],
+            "total_time": 869,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20065400395",
+            "customer_email": "qa@seph.com",
+            "session_id": "ab2a3c3d-03aa-4ec6-bf32-8cedf2a0aed2.1762412617334",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762414089961,
+                    "duration": 824
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762414914159,
+                    "duration": 45
+                }
+            ],
+            "total_time": 869,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "4364872617457024",
+            "customer_email": "newuser201@yopmail.com",
+            "session_id": "1e8b2dc4-517c-418b-b85d-1b4564f14b5d.1762255309",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762255311477,
+                    "duration": 74
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762255386305,
+                    "duration": 30
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762255416529,
+                    "duration": 763
+                }
+            ],
+            "total_time": 867,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "20732760000",
+            "customer_email": "shanu01@yopmail.com",
+            "session_id": "49a2ddcb-e542-4e9e-b53e-16e07cfd366c.1762174000349",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762174586618,
+                    "duration": 807
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762175394328,
+                    "duration": 45
+                }
+            ],
+            "total_time": 852,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4464636460487808",
+            "customer_email": "abracadabra@yopmail.com",
+            "session_id": "d71ac6e9-40c3-423e-896e-587f9e27792a.1762174113725",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762174537218,
+                    "duration": 775
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762175313014,
+                    "duration": 7
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762175320908,
+                    "duration": 20
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762175341387,
+                    "duration": 45
+                }
+            ],
+            "total_time": 847,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "20102320582",
+            "customer_email": "qa31@qa.com",
+            "session_id": "9aa10159-cae7-47ee-a372-2cd8d0237a3e.1762370018",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762370019003,
+                    "duration": 6
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762370025914,
+                    "duration": 4
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762370030662,
+                    "duration": 27
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762370058142,
+                    "duration": 808
+                }
+            ],
+            "total_time": 845,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20732760000",
+            "customer_email": "shanu01@yopmail.com",
+            "session_id": "49a2ddcb-e542-4e9e-b53e-16e07cfd366c.1762160032837",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762160042667,
+                    "duration": 797
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762160840376,
+                    "duration": 45
+                }
+            ],
+            "total_time": 842,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "b403edd8-5454-4fe7-90ce-6170d4ab0b29",
+            "customer_email": "customer_191@example.com",
+            "session_id": "5a042b76-e656-4258-9356-cd047dbb39dc.1762403986",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762403987395,
+                    "duration": 6
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762403993837,
+                    "duration": 830
+                }
+            ],
+            "total_time": 836,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "20246907376",
+            "customer_email": "anshad95@qa4.com",
+            "session_id": "f9da2100-6b12-4bd1-b45d-1aa06ac977e6.1762331903",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762331903737,
+                    "duration": 192
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762332096340,
+                    "duration": 642
+                }
+            ],
+            "total_time": 834,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4450582392355328",
+            "customer_email": "sephoradev@yopmail.com",
+            "session_id": "a82c1000-dc2b-4737-a614-17dbf8aead43.1762160215269",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762160310855,
+                    "duration": 5
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762160316653,
+                    "duration": 781
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762161097980,
+                    "duration": 45
+                }
+            ],
+            "total_time": 831,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "76507173-d277-41c3-81fc-9edbab1e4ea0",
+            "customer_email": "customer_194@example.com",
+            "session_id": "5fed4b46-18e2-4408-9cb5-c147a6c367fc.1762264932",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762266688561,
+                    "duration": 415
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762267104157,
+                    "duration": 415
+                }
+            ],
+            "total_time": 830,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        },
+        {
+            "customer_id": "4464464792736896",
+            "customer_email": "rayrayray@yopmail.com",
+            "session_id": "d71ac6e9-40c3-423e-896e-587f9e27792a.1762168873893",
+            "platform": "android app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762168892488,
+                    "duration": 167
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762169059911,
+                    "duration": 10
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762169070710,
+                    "duration": 76
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762169146920,
+                    "duration": 137
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762169284241,
+                    "duration": 390
+                },
+                {
+                    "step": "purchase_complete",
+                    "timestamp": 1762169674503,
+                    "duration": 45
+                }
+            ],
+            "total_time": 825,
+            "abandoned": false,
+            "conversion_likelihood": "high"
+        },
+        {
+            "customer_id": "50706164221",
+            "customer_email": "test_500@yopmail.com",
+            "session_id": "1070fb5a-21eb-4647-90b2-05c240f5da8f.1762323924575",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "product_view",
+                    "timestamp": 1762323967755,
+                    "duration": 389
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762324357391,
+                    "duration": 14
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762324372110,
+                    "duration": 368
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762324740693,
+                    "duration": 45
+                }
+            ],
+            "total_time": 816,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "50453130188",
+            "customer_email": "qa3@mail.ua",
+            "session_id": "e7063ab8-6a06-4e18-a5bf-6f3232e5735e.1762269063",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762269064242,
+                    "duration": 3
+                },
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762269068118,
+                    "duration": 6
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762269074907,
+                    "duration": 802
+                }
+            ],
+            "total_time": 811,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "4467265823912064",
+            "customer_email": "qa3dis041125@yopmail.com",
+            "session_id": "a5d9ff29-4246-4807-a0f7-4d2612d2f6cd.1762348600508",
+            "platform": "desktop web",
+            "steps": [
+                {
+                    "step": "cart_view",
+                    "timestamp": 1762349769132,
+                    "duration": 438
+                },
+                {
+                    "step": "add_to_cart",
+                    "timestamp": 1762350207904,
+                    "duration": 146
+                },
+                {
+                    "step": "checkout_start",
+                    "timestamp": 1762350354150,
+                    "duration": 175
+                },
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762350529202,
+                    "duration": 45
+                }
+            ],
+            "total_time": 804,
+            "abandoned": true,
+            "conversion_likelihood": "medium"
+        },
+        {
+            "customer_id": "92927bd4-bf69-450e-8a75-bea44869b7e7",
+            "customer_email": "customer_199@example.com",
+            "session_id": "0721d65f-f947-47d3-a839-9826172386e2.1762416224",
+            "platform": "iphone app",
+            "steps": [
+                {
+                    "step": "landing_page",
+                    "timestamp": 1762416570355,
+                    "duration": 6
+                },
+                {
+                    "step": "product_view",
+                    "timestamp": 1762416577162,
+                    "duration": 794
+                }
+            ],
+            "total_time": 800,
+            "abandoned": true,
+            "conversion_likelihood": "low"
+        }
+    ],
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-10",
+    "timestamp": "2025-11-10T04:49:46.272Z",
+    "recordCount": 200,
+    "source": "rest-api"
+}

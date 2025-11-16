@@ -1,0 +1,683 @@
+{
+    "success": true,
+    "data": [
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "cms viewable impression",
+            "platform": "desktop web",
+            "cnt": 11847,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "page view",
+            "platform": "android app",
+            "cnt": 2900,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "cms viewable impression",
+            "platform": "android app",
+            "cnt": 2162,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "page view",
+            "platform": "iphone app",
+            "cnt": 2281,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "page view",
+            "platform": "desktop web",
+            "cnt": 1777,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "cms viewable impression",
+            "platform": "iphone app",
+            "cnt": 1565,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "cms viewable impression",
+            "platform": "tablet web",
+            "cnt": 305,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "cms component item click",
+            "platform": "android app",
+            "cnt": 122,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "page view",
+            "platform": "tablet web",
+            "cnt": 123,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "cms component item click",
+            "platform": "desktop web",
+            "cnt": 97,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "cms component item click",
+            "platform": "iphone app",
+            "cnt": 69,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "add to basket",
+            "platform": "desktop web",
+            "cnt": 78,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "cms component item click",
+            "platform": "tablet web",
+            "cnt": 7,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "add to basket",
+            "platform": "iphone app",
+            "cnt": 55,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "add to basket",
+            "platform": "android app",
+            "cnt": 45,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "remove from basket",
+            "platform": "desktop web",
+            "cnt": 28,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "remove from basket",
+            "platform": "android app",
+            "cnt": 26,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "add to basket",
+            "platform": "tablet web",
+            "cnt": 10,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "remove from basket",
+            "platform": "iphone app",
+            "cnt": 24,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "add to loves",
+            "platform": "android app",
+            "cnt": 7,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "purchase",
+            "platform": "iphone app",
+            "cnt": 16,
+            "revenue": 848.69
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "purchase",
+            "platform": "desktop web",
+            "cnt": 20,
+            "revenue": 953.8
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "add to loves",
+            "platform": "iphone app",
+            "cnt": 5,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "purchase",
+            "platform": "android app",
+            "cnt": 3,
+            "revenue": 110
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "un love",
+            "platform": "iphone app",
+            "cnt": 6,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "add to loves",
+            "platform": "desktop web",
+            "cnt": 6,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-10T00:00:00.000Z",
+            "sotType": "un love",
+            "platform": "android app",
+            "cnt": 1,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "sotType": "cms viewable impression",
+            "platform": "desktop web",
+            "cnt": 595,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "sotType": "page view",
+            "platform": "desktop web",
+            "cnt": 188,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "sotType": "page view",
+            "platform": "iphone app",
+            "cnt": 151,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "sotType": "cms viewable impression",
+            "platform": "tablet web",
+            "cnt": 136,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "sotType": "cms viewable impression",
+            "platform": "iphone app",
+            "cnt": 127,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "sotType": "page view",
+            "platform": "tablet web",
+            "cnt": 82,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "sotType": "page view",
+            "platform": "android app",
+            "cnt": 70,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "sotType": "cms viewable impression",
+            "platform": "android app",
+            "cnt": 24,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "sotType": "cms component item click",
+            "platform": "iphone app",
+            "cnt": 11,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "sotType": "cms component item click",
+            "platform": "android app",
+            "cnt": 2,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "sotType": "purchase",
+            "platform": "iphone app",
+            "cnt": 3,
+            "revenue": 48
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "sotType": "add to basket",
+            "platform": "desktop web",
+            "cnt": 2,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-08T00:00:00.000Z",
+            "sotType": "add to basket",
+            "platform": "iphone app",
+            "cnt": 2,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "cms viewable impression",
+            "platform": "desktop web",
+            "cnt": 14119,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "page view",
+            "platform": "android app",
+            "cnt": 4206,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "cms viewable impression",
+            "platform": "android app",
+            "cnt": 2674,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "page view",
+            "platform": "desktop web",
+            "cnt": 2667,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "page view",
+            "platform": "iphone app",
+            "cnt": 2543,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "cms viewable impression",
+            "platform": "iphone app",
+            "cnt": 1718,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "cms viewable impression",
+            "platform": "tablet web",
+            "cnt": 698,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "page view",
+            "platform": "tablet web",
+            "cnt": 419,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "cms component item click",
+            "platform": "android app",
+            "cnt": 182,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "cms component item click",
+            "platform": "desktop web",
+            "cnt": 147,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "cms component item click",
+            "platform": "iphone app",
+            "cnt": 66,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "un love",
+            "platform": "android app",
+            "cnt": 22,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "add to loves",
+            "platform": "android app",
+            "cnt": 32,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "add to basket",
+            "platform": "android app",
+            "cnt": 83,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "purchase",
+            "platform": "android app",
+            "cnt": 22,
+            "revenue": 1062
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "remove from basket",
+            "platform": "android app",
+            "cnt": 35,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "add to basket",
+            "platform": "desktop web",
+            "cnt": 59,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "add to basket",
+            "platform": "iphone app",
+            "cnt": 38,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "purchase",
+            "platform": "desktop web",
+            "cnt": 33,
+            "revenue": 1603.8
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "remove from basket",
+            "platform": "iphone app",
+            "cnt": 22,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "cms component item click",
+            "platform": "tablet web",
+            "cnt": 2,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "remove from basket",
+            "platform": "desktop web",
+            "cnt": 4,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "purchase",
+            "platform": "iphone app",
+            "cnt": 6,
+            "revenue": 239.6
+        },
+        {
+            "event_date": "2025-11-07T00:00:00.000Z",
+            "sotType": "add to loves",
+            "platform": "iphone app",
+            "cnt": 7,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "cms viewable impression",
+            "platform": "desktop web",
+            "cnt": 20210,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "page view",
+            "platform": "android app",
+            "cnt": 7144,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "page view",
+            "platform": "iphone app",
+            "cnt": 6319,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "cms viewable impression",
+            "platform": "android app",
+            "cnt": 3930,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "cms viewable impression",
+            "platform": "iphone app",
+            "cnt": 3807,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "page view",
+            "platform": "desktop web",
+            "cnt": 3830,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "cms viewable impression",
+            "platform": "tablet web",
+            "cnt": 1218,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "page view",
+            "platform": "tablet web",
+            "cnt": 572,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "cms component item click",
+            "platform": "iphone app",
+            "cnt": 243,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "cms component item click",
+            "platform": "desktop web",
+            "cnt": 215,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "cms component item click",
+            "platform": "android app",
+            "cnt": 119,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "un love",
+            "platform": "iphone app",
+            "cnt": 69,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "un love",
+            "platform": "android app",
+            "cnt": 52,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "add to loves",
+            "platform": "iphone app",
+            "cnt": 64,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "add to basket",
+            "platform": "android app",
+            "cnt": 153,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "add to loves",
+            "platform": "android app",
+            "cnt": 196,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "add to basket",
+            "platform": "iphone app",
+            "cnt": 166,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "remove from basket",
+            "platform": "android app",
+            "cnt": 76,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "add to basket",
+            "platform": "desktop web",
+            "cnt": 135,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "remove from basket",
+            "platform": "iphone app",
+            "cnt": 98,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "purchase",
+            "platform": "desktop web",
+            "cnt": 47,
+            "revenue": 3879.5
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "remove from basket",
+            "platform": "desktop web",
+            "cnt": 33,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "purchase",
+            "platform": "android app",
+            "cnt": 18,
+            "revenue": 904
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "un love",
+            "platform": "desktop web",
+            "cnt": 4,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "purchase",
+            "platform": "iphone app",
+            "cnt": 32,
+            "revenue": 2364
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "cms component item click",
+            "platform": "tablet web",
+            "cnt": 3,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "add to loves",
+            "platform": "desktop web",
+            "cnt": 21,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "add to basket",
+            "platform": "tablet web",
+            "cnt": 6,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "purchase",
+            "platform": "tablet web",
+            "cnt": 2,
+            "revenue": 71
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "remove from basket",
+            "platform": "tablet web",
+            "cnt": 2,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "add to loves",
+            "platform": "tablet web",
+            "cnt": 1,
+            "revenue": 0
+        },
+        {
+            "event_date": "2025-11-06T00:00:00.000Z",
+            "sotType": "un love",
+            "platform": "tablet web",
+            "cnt": 1,
+            "revenue": 0
+        }
+    ],
+    "date": null,
+    "startDate": "2025-11-06",
+    "endDate": "2025-11-10",
+    "timestamp": "2025-11-10T13:38:00.584Z",
+    "recordCount": 96,
+    "source": "rest-api"
+}
