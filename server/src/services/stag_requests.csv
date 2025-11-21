@@ -1,2 +1,3 @@
 "id","timestamp","title","description","eventType","platform","sotType","sotProperties","jiraTicket","status","comments","attachments"
 "STAG-1762860138626-c8d0zgade","2025-11-11T11:22:18.626Z","test","test","tst","Desktop,Android,iOS","tst","sku quantity;Page name in code;category id","https://jira.sephora.com/browse/SA-6172","submitted","test",""
+"STAG-1763475993406-i605lte6f","2025-11-18T14:26:33.406Z","SYS implementation","implement SYS","sys button clicked","iOS,Android,Desktop","sys button clicked","sku Id;Page name in code","https://jira.sephora.com/browse/SA-9983","submitted","SYS",""

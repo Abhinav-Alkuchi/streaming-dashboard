@@ -275,7 +275,7 @@ export const AbandonedCartDashboard: React.FC = () => {
 
     // Only fetch if date range actually changed or it's initial load
     if (initialLoadRef.current || currentDateRange !== lastDateRange) {
-      console.log("📅 Date range changed, fetching abandoned carts...", {
+      console.log("Date range changed, fetching abandoned carts...", {
         current: currentDateRange,
         last: lastDateRange,
         isInitial: initialLoadRef.current,

@@ -55,6 +55,7 @@ export const ChatBotModal: React.FC<ChatBotModalProps> = ({ open, onClose }) => 
   const [uploadStatus, setUploadStatus] = useState<string>('');
   const fileInputRef = useRef<HTMLInputElement>(null);
   const messagesEndRef = useRef<HTMLDivElement>(null);
+  const messagesContainerRef = useRef<HTMLDivElement>(null);
 
   // API base URL
   const API_BASE = `${import.meta.env.VITE_API_BASE_URL}/api`;
@@ -178,11 +179,16 @@ export const ChatBotModal: React.FC<ChatBotModalProps> = ({ open, onClose }) => 
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ query, topK: 10 }),
+        body: JSON.stringify({ 
+          query, 
+          topK: 10,
+          useLLM: true,           
+          llmProvider: 'openai'
+        }),
       });
 
       const result: ApiResponse = await response.json();
-
+      
       if (result.success && result.response) {
         return result.response;
       } else {
@@ -238,7 +244,7 @@ export const ChatBotModal: React.FC<ChatBotModalProps> = ({ open, onClose }) => 
     return suggestions;
   };
 
-  // Message component with formatted text
+  // Message component with formatted text and proper overflow handling
   const MessageBubble: React.FC<{ message: ChatMessage }> = ({ message }) => (
     <Box
       sx={{
@@ -248,9 +254,20 @@ export const ChatBotModal: React.FC<ChatBotModalProps> = ({ open, onClose }) => 
         p: 2,
         borderRadius: message.isUser ? '12px 12px 0 12px' : '12px 12px 12px 0',
         border: `1px solid ${message.isUser ? 'hsl(var(--chart-1))' : 'rgb(75 85 99)'}`,
+        wordWrap: 'break-word',
+        overflowWrap: 'break-word',
+        minWidth: 0, // Important for flexbox truncation
       }}
     >
-      <Typography variant="body2" sx={{ whiteSpace: 'pre-wrap', lineHeight: 1.6 }}>
+      <Typography 
+        variant="body2" 
+        sx={{ 
+          whiteSpace: 'pre-wrap', 
+          lineHeight: 1.6,
+          wordBreak: 'break-word',
+          overflow: 'hidden',
+        }}
+      >
         <FormattedText text={message.text} />
       </Typography>
       <Typography variant="caption" sx={{ color: '#9CA3AF', mt: 0.5, display: 'block', textAlign: 'right' }}>
@@ -259,111 +276,36 @@ export const ChatBotModal: React.FC<ChatBotModalProps> = ({ open, onClose }) => 
     </Box>
   );
 
-  // Stats Panel Component
-//   const StatsPanel = () => {
-//     if (!stats) {
-//       return (
-//         <Box sx={{ p: 2, textAlign: 'center', color: '#9CA3AF' }}>
-//           <Typography variant="body2">No data loaded yet</Typography>
-//         </Box>
-//       );
-//     }
-
-//     return (
-//       <Box sx={{ p: 2 }}>
-//         <Typography variant="subtitle2" sx={{ color: 'white', mb: 2, fontWeight: 600 }}>
-//           Dataset Overview
-//         </Typography>
-        
-//         <Box sx={{ display: 'flex', flexWrap: 'wrap', gap: 1, mb: 2 }}>
-//           <Chip 
-//             label={`${stats.totalRecords} Total Events`} 
-//             size="small"
-//             sx={{ backgroundColor: 'rgb(55 65 81)', color: 'white' }}
-//           />
-//           <Chip 
-//             label={`${stats.uniqueEmails} Users`} 
-//             size="small"
-//             sx={{ backgroundColor: 'rgb(55 65 81)', color: 'white' }}
-//           />
-//           <Chip 
-//             label={`${stats.uniqueDates} Days`} 
-//             size="small"
-//             sx={{ backgroundColor: 'rgb(55 65 81)', color: 'white' }}
-//           />
-//         </Box>
-
-//         <Typography variant="caption" sx={{ color: '#9CA3AF', display: 'block', mb: 1 }}>
-//           Events by Type:
-//         </Typography>
-        
-//         <Box sx={{ display: 'flex', gap: 1, flexWrap: 'wrap', mb: 2 }}>
-//           {stats.byEventType?.purchase && (
-//             <Chip 
-//               icon={<ShoppingCart size={14} />}
-//               label={`${stats.byEventType.purchase} Purchases`}
-//               size="small"
-//               sx={{ backgroundColor: 'hsl(var(--chart-1))', color: 'white' }}
-//             />
-//           )}
-//           {stats.byEventType?.pageview && (
-//             <Chip 
-//               icon={<Eye size={14} />}
-//               label={`${stats.byEventType.pageview} Page Views`}
-//               size="small"
-//               sx={{ backgroundColor: 'hsl(var(--chart-2))', color: 'white' }}
-//             />
-//           )}
-//           {stats.byEventType?.search && (
-//             <Chip 
-//               icon={<SearchIcon size={14} />}
-//               label={`${stats.byEventType.search} Searches`}
-//               size="small"
-//               sx={{ backgroundColor: 'hsl(var(--chart-3))', color: 'white' }}
-//             />
-//           )}
-//         </Box>
-
-//         {stats.byEventType?.purchase && (
-//           <Box sx={{ mb: 2 }}>
-//             <Typography variant="caption" sx={{ color: '#9CA3AF' }}>
-//               Avg Purchase Price: <strong style={{ color: 'white' }}>${stats.avgPrice?.toFixed(2)}</strong>
-//             </Typography>
-//           </Box>
-//         )}
-
-//         {stats.topSearchTerms && stats.topSearchTerms.length > 0 && (
-//           <Box>
-//             <Typography variant="caption" sx={{ color: '#9CA3AF', display: 'block', mb: 1 }}>
-//               Top Search Terms:
-//             </Typography>
-//             {stats.topSearchTerms.slice(0, 3).map((item, idx) => (
-//               <Typography key={idx} variant="caption" sx={{ color: 'white', display: 'block', ml: 1 }}>
-//                 • {item.term} ({item.count})
-//               </Typography>
-//             ))}
-//           </Box>
-//         )}
-//       </Box>
-//     );
-//   };
-
   return (
-    <Dialog open={open} onClose={onClose} maxWidth="lg" fullWidth PaperProps={{
-      sx: {
-        backgroundColor: 'hsl(var(--card))',
-        border: '1px solid rgb(55 65 81)',
-        borderRadius: '12px',
-        height: '85vh',
-        maxHeight: '850px',
-        width: '1200px'
-      }
-    }}>
-      <DialogTitle sx={{ backgroundColor: 'hsl(var(--card))', borderBottom: '1px solid rgb(55 65 81)', color: 'white', py: 2, pr: 2 }}>
+    <Dialog 
+      open={open} 
+      onClose={onClose} 
+      maxWidth="lg" 
+      fullWidth 
+      PaperProps={{
+        sx: {
+          backgroundColor: 'hsl(var(--card))',
+          border: '1px solid rgb(55 65 81)',
+          borderRadius: '12px',
+          height: '85vh',
+          maxHeight: '850px',
+          width: '1200px',
+          overflow: 'hidden', // Prevent overall overflow
+        }
+      }}
+    >
+      <DialogTitle sx={{ 
+        backgroundColor: 'hsl(var(--card))', 
+        borderBottom: '1px solid rgb(55 65 81)', 
+        color: 'white', 
+        py: 2, 
+        pr: 2,
+        flexShrink: 0, // Prevent title from shrinking
+      }}>
         <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
           <Box sx={{ display: 'flex', alignItems: 'center', gap: 2 }}>
             <MessageCircle size={24} />
-            <Typography variant="h6" sx={{ fontWeight: 600 }}>Sephora AI Interal Analytics Assistant</Typography>
+            <Typography variant="h6" sx={{ fontWeight: 600 }}>Sephora AI Internal Analytics Assistant</Typography>
           </Box>
           <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
             <Tooltip title="Clear chat">
@@ -383,24 +325,60 @@ export const ChatBotModal: React.FC<ChatBotModalProps> = ({ open, onClose }) => 
         </Box>
       </DialogTitle>
 
-      <DialogContent sx={{ p: 0, display: 'flex', height: '100%' }}>
+      <DialogContent sx={{ 
+        p: 0, 
+        display: 'flex', 
+        height: 'calc(100% - 64px)', // Subtract title height
+        overflow: 'hidden' // Prevent content overflow
+      }}>
         {/* Main Chat Area */}
-        <Box sx={{ flex: 1, display: 'flex', flexDirection: 'column' }}>
+        <Box sx={{ 
+          flex: 1, 
+          display: 'flex', 
+          flexDirection: 'column',
+          minHeight: 0, // Important for flexbox scrolling
+        }}>
           {/* Upload Status */}
           {uploadStatus && (
-            <Box sx={{ px: 3, py: 1, display: 'flex', alignItems: 'center', gap: 1, borderBottom: '1px solid rgb(55 65 81)' }}>
+            <Box sx={{ 
+              px: 3, 
+              py: 1, 
+              display: 'flex', 
+              alignItems: 'center', 
+              gap: 1, 
+              borderBottom: '1px solid rgb(55 65 81)',
+              flexShrink: 0, // Prevent from shrinking
+            }}>
               {loading ? <AlertCircle size={16} style={{ color: '#FBBF24' }} /> : <CheckCircle size={16} style={{ color: '#10B981' }} />}
               <Typography variant="caption" sx={{ color: loading ? '#FBBF24' : '#10B981' }}>
                 {uploadStatus}
               </Typography>
             </Box>
           )}
-          {loading && <LinearProgress sx={{ height: 2 }} />}
+          {loading && <LinearProgress sx={{ height: 2, flexShrink: 0 }} />}
 
-          {/* Messages */}
-          <Box sx={{ flex: 1, overflowY: 'auto', p: 3, display: 'flex', flexDirection: 'column', gap: 2 }}>
+          {/* Messages Container with proper scrolling */}
+          <Box 
+            ref={messagesContainerRef}
+            sx={{ 
+              flex: 1, 
+              overflowY: 'auto', 
+              p: 3, 
+              display: 'flex', 
+              flexDirection: 'column', 
+              gap: 2,
+              minHeight: 0, // Important for flexbox scrolling
+            }}
+          >
             {messages.map((message) => (
-              <Box key={message.id} sx={{ display: 'flex', justifyContent: message.isUser ? 'flex-end' : 'flex-start' }}>
+              <Box 
+                key={message.id} 
+                sx={{ 
+                  display: 'flex', 
+                  justifyContent: message.isUser ? 'flex-end' : 'flex-start',
+                  minWidth: 0, // Important for flexbox truncation
+                }}
+              >
                 <MessageBubble message={message} />
               </Box>
             ))}
@@ -409,7 +387,11 @@ export const ChatBotModal: React.FC<ChatBotModalProps> = ({ open, onClose }) => 
 
           {/* Suggested Queries */}
           {messages.length <= 2 && (
-            <Box sx={{ px: 3, pb: 2 }}>
+            <Box sx={{ 
+              px: 3, 
+              pb: 2, 
+              flexShrink: 0, // Prevent from shrinking
+            }}>
               <Typography variant="caption" sx={{ color: '#9CA3AF', display: 'block', mb: 1 }}>
                 Try asking:
               </Typography>
@@ -433,7 +415,12 @@ export const ChatBotModal: React.FC<ChatBotModalProps> = ({ open, onClose }) => 
           )}
 
           {/* Input Area */}
-          <Box sx={{ p: 3, borderTop: '1px solid rgb(55 65 81)', backgroundColor: 'hsl(var(--card))' }}>
+          <Box sx={{ 
+            p: 3, 
+            borderTop: '1px solid rgb(55 65 81)', 
+            backgroundColor: 'hsl(var(--card))',
+            flexShrink: 0, // Prevent from shrinking
+          }}>
             <Box sx={{ display: 'flex', gap: 1, alignItems: 'flex-end' }}>
               <textarea
                 value={inputText}
@@ -452,6 +439,7 @@ export const ChatBotModal: React.FC<ChatBotModalProps> = ({ open, onClose }) => 
                   minHeight: '44px',
                   maxHeight: '120px',
                   outline: 'none',
+                  fontFamily: 'inherit',
                 }}
                 rows={1}
               />
@@ -506,16 +494,6 @@ export const ChatBotModal: React.FC<ChatBotModalProps> = ({ open, onClose }) => 
             </Box>
           </Box>
         </Box>
-
-        {/* Stats Sidebar */}
-        {/* <Box sx={{ 
-          width: '280px', 
-          borderLeft: '1px solid rgb(55 65 81)',
-          backgroundColor: 'rgb(31 41 55)',
-          overflowY: 'auto'
-        }}>
-          <StatsPanel />
-        </Box> */}
       </DialogContent>
     </Dialog>
   );

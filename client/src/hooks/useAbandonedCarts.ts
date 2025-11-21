@@ -22,7 +22,7 @@ export const useAbandonedCarts = () => {
     
     try {
       if (USE_MOCK_DATA) {
-        console.log('📊 Using ENHANCED MOCK data for abandoned carts');
+        console.log('Using ENHANCED MOCK data for abandoned carts');
         // Use enhanced mock data
         await new Promise(resolve => setTimeout(resolve, 1000));
         const { mockAbandonedCarts, mockMetrics, getEnhancedMockJourneys } = await import('../mock/abandoned-carts');

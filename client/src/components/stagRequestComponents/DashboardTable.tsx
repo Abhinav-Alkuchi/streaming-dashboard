@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import React, { useState } from "react";
 import { ThemeProvider } from "@material-ui/core/styles";
 import theme from "../assets/styles/theme";
@@ -18,13 +19,14 @@ import {
   Toolbar,
   makeStyles,
 } from "@material-ui/core";
-import { Delete as DeleteIcon, Edit as EditIcon} from "@material-ui/icons";
-import { deleteRequestById } from "../features/apiCalls";
+import { Delete as DeleteIcon, Edit as EditIcon, Refresh as RefreshIcon } from "@material-ui/icons";
+import { deleteStagRequest } from "../../hooks/stagRequestService";
 import EditStagRequest from "./EditStagRequest";
 import ModalContainer from "./ModalContainer";
 import CarouselSlider from "./CarouselSlider";
 import { Search as SearchIcon } from "@material-ui/icons";
-import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom';
+import JiraStatusIndicator from './JiraStatusIndicator';
 
 const columnNames = [
   "Title",
@@ -36,10 +38,11 @@ const columnNames = [
   "Comments",
   "Attachments",
   "Jira Ticket",
+  "Status",
   "Actions",
 ];
 
-const useStyles = makeStyles((theme) => ({
+const useStyles = makeStyles((theme: any) => ({
   search: {
     position: "relative",
     borderRadius: theme.shape.borderRadius,
@@ -50,14 +53,14 @@ const useStyles = makeStyles((theme) => ({
     width: "100%",
   },
   searchIcon: {
-    padding: theme.spacing(0,0,1,1),
+    padding: theme.spacing(0, 0, 1, 1),
     height: "100%",
     position: "absolute",
     pointerEvents: "none",
     display: "flex",
     alignItems: "center",
     justifyContent: "center",
-    color:"#000"
+    color: "#000"
   },
   inputRoot: {
     width: "100%",
@@ -67,8 +70,10 @@ const useStyles = makeStyles((theme) => ({
     transition: theme.transitions.create("width"),
     width: "100%",
   },
+  refreshButton: {
+    marginLeft: theme.spacing(2),
+  },
 }));
-
 
 const StyledTableCell = ({ children }) => (
   <TableCell>
@@ -87,6 +92,8 @@ const initialModalState = {
 
 const EnhancedTable = ({ data, onDelete, onDataRefresh }) => {
   const classes = useStyles();
+  const [isRefreshing, setIsRefreshing] = useState(false);
+
   const TableHeader = () => {
     return (
       <>
@@ -101,6 +108,7 @@ const EnhancedTable = ({ data, onDelete, onDataRefresh }) => {
       </>
     );
   };
+
   const handleRequestSort = (property) => {
     const isAsc = state.orderBy === property && state.order === "asc";
     setState((prevState) => ({
@@ -109,6 +117,7 @@ const EnhancedTable = ({ data, onDelete, onDataRefresh }) => {
       orderBy: property,
     }));
   };
+
   const [state, setState] = useState({
     order: "asc",
     orderBy: "id",
@@ -119,8 +128,8 @@ const EnhancedTable = ({ data, onDelete, onDataRefresh }) => {
 
   const [searchQuery, setSearchQuery] = useState("");
 
-  const handleDelete = (id) => {
-    deleteRequestById(id)
+  const handleDelete = (id: any) => {
+    deleteStagRequest(id)
       .then((response) => {
         if (response?.success) {
           onDelete(response.success, id);
@@ -131,8 +140,8 @@ const EnhancedTable = ({ data, onDelete, onDataRefresh }) => {
       });
   };
 
-  const openModal = (text, title) => {
-    setState((prevState) => ({
+  const openModal = (text: string, title: string) => {
+    setState((prevState: any) => ({
       ...prevState,
       modal: {
         isOpen: true,
@@ -180,7 +189,8 @@ const EnhancedTable = ({ data, onDelete, onDataRefresh }) => {
 
   const handleSotProperties = (data) => {
     if (data && data.length > 0) {
-      return JSON.parse(data).map((obj) => (
+      const properties = typeof data === 'string' ? JSON.parse(data) : data;
+      return properties.map((obj) => (
         <tr key={obj.tagKey}>
           <Tooltip title={obj.tagName} arrow>
             <td>{obj.tagKey}</td>
@@ -197,6 +207,15 @@ const EnhancedTable = ({ data, onDelete, onDataRefresh }) => {
           <td colSpan="3">No Stag Variables Available.</td>
         </tr>
       );
+    }
+  };
+
+  const handleRefresh = async () => {
+    setIsRefreshing(true);
+    try {
+      await onDataRefresh();
+    } finally {
+      setIsRefreshing(false);
     }
   };
 
@@ -226,6 +245,16 @@ const EnhancedTable = ({ data, onDelete, onDataRefresh }) => {
                 onChange={(e) => setSearchQuery(e.target.value)}
               />
             </div>
+            <Tooltip title="Refresh Jira Status">
+              <IconButton
+                color="inherit"
+                className={classes.refreshButton}
+                onClick={handleRefresh}
+                disabled={isRefreshing}
+              >
+                <RefreshIcon className={isRefreshing ? 'spin-animation' : ''} />
+              </IconButton>
+            </Tooltip>
           </Toolbar>
         </AppBar>
       </ThemeProvider>
@@ -248,6 +277,7 @@ const EnhancedTable = ({ data, onDelete, onDataRefresh }) => {
                 platform,
                 comments,
                 jiraTicket,
+                jiraStatus,
                 attachments,
               }) => (
                 <TableRow key={id}>
@@ -270,12 +300,13 @@ const EnhancedTable = ({ data, onDelete, onDataRefresh }) => {
                   <TableCell>{requestedBy}</TableCell>
                   <TableCell>{sotType}</TableCell>
                   <TableCell>
-                    {" "}
                     <table>
                       <tbody>{handleSotProperties(sotProperties)}</tbody>
                     </table>
                   </TableCell>
-                  <TableCell>{platform}</TableCell>
+                  <TableCell>
+                    {Array.isArray(platform) ? platform.join(', ') : platform}
+                  </TableCell>
                   <TableCell>
                     <span
                       onClick={() => handleLargeTextClick("Comments", comments)}
@@ -292,18 +323,27 @@ const EnhancedTable = ({ data, onDelete, onDataRefresh }) => {
                   <TableCell>
                     <span
                       style={{
-                        cursor: attachments.length ? "pointer" : "",
+                        cursor: attachments?.length ? "pointer" : "",
                         color: "blue",
                       }}
                       onClick={() => handleAttachmentsClick(attachments)}
                     >
-                      {attachments.length
+                      {attachments?.length
                         ? `${attachments.length} attachments`
                         : `No Attachments`}
                     </span>
                   </TableCell>
                   <TableCell>
-                      <Link to={jiraTicket} target="_blank">View Jira Ticket</Link>
+                    {jiraTicket ? (
+                      <Link to={jiraTicket} target="_blank">
+                        View Jira Ticket
+                      </Link>
+                    ) : (
+                      'N/A'
+                    )}
+                  </TableCell>
+                  <TableCell>
+                    <JiraStatusIndicator status={jiraStatus || 'To Do'} />
                   </TableCell>
                   <TableCell>
                     <div style={{ display: "flex", gap: "8px" }}>
@@ -338,7 +378,7 @@ const EnhancedTable = ({ data, onDelete, onDataRefresh }) => {
           style={{
             padding:
               state.modal.title === "Description" ||
-                state.modal.title === "Comments"
+              state.modal.title === "Comments"
                 ? "16px"
                 : "0",
           }}

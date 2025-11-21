@@ -58,7 +58,7 @@ async function executeWithConnection(connectionType, queryFn, cacheKey, bypassCa
  * Execute SQL query (replace with your actual database client)
  */
 async function executeQuery(session, query) {
-  console.log('📊 Executing heatmap query...');
+  console.log('Executing heatmap query...');
   
   // Mock implementation - REPLACE WITH YOUR ACTUAL DATABASE CLIENT
   // This simulates database response
@@ -257,7 +257,7 @@ ORDER BY click_count DESC
 LIMIT 1000
       `;
 
-      console.log(`📊 Executing purchase journey heatmap query for: ${startDate} to ${endDate}`);
+      console.log(`Executing purchase journey heatmap query for: ${startDate} to ${endDate}`);
       
       try {
         const rows = await executeQuery(session, query);
@@ -964,7 +964,7 @@ export async function generateBasicHeatMap(startDate, endDate, pageUrl = null) {
     "heatmap-data",
     async (session) => {
       // Basic heatmap implementation would go here
-      console.log(`📊 Generating basic heatmap for ${startDate} to ${endDate}`);
+      console.log(`Generating basic heatmap for ${startDate} to ${endDate}`);
       
       // Return mock basic heatmap data
       return {

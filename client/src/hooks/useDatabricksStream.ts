@@ -380,12 +380,12 @@ export const useDatabricksStream = (): UseDatabricksStreamReturn => {
 
   // Connect/disconnect helpers
   const connectSocket = useCallback(() => {
-    console.log("🔌 Connecting socket for live view");
+    console.log("Connecting socket for live view");
     socketManagerRef.current.connect();
   }, []);
 
   const disconnectSocket = useCallback(() => {
-    console.log("🔌 Disconnecting socket");
+    console.log("Disconnecting socket");
     socketManagerRef.current.disconnect();
     setIsConnected(false);
   }, []);

@@ -498,9 +498,9 @@ export const AnalyticsChart = ({
                 dataKey="value"
                 onMouseEnter={onPieEnter}
               >
-                {data.map((index: any) => (
-                  <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
-                ))}
+                {data.map((_item: Record<string, any>, index: number) => (
+                    <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
+                  ))}
               </Pie>
               <Tooltip content={<PieChartTooltip />} />
               <Legend 
