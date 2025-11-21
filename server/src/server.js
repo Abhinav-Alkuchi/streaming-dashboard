@@ -27,8 +27,10 @@ const appState = {
   activeTabs: new Set(),
 };
 
+
 // Initialize Express and Socket.IO
 const app = express();
+
 const server = createServer(app);
 const io = new Server(server, CONFIG.SOCKET_CONFIG);
 
@@ -38,8 +40,9 @@ const eventStreamManager = new EventStreamManager(io, appState, CONFIG);
 const socketManager = new SocketManager(io, appState, pollingManager, eventStreamManager, CONFIG);
 
 // Middleware
-app.use(cors({ origin: CONFIG.CORS_ORIGIN }));
-app.use(express.json());
+app.use(cors({ origin: CONFIG.CORS_ORIGIN, credentials: true }));
+app.use(express.json({ limit: "10mb" }));
+app.use(express.urlencoded({ extended: true, limit: "10mb" }));
 
 // Routes
 app.use(routes);

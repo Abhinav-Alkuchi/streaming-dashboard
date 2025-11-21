@@ -111,7 +111,7 @@ const Index = () => {
       
       if (!newTab) return;
 
-      console.log(`📄 Tab changing from ${activeTab} to ${newActualIndex} (UI position: ${newUIPosition})`);
+      console.log(`Tab changing from ${activeTab} to ${newActualIndex} (UI position: ${newUIPosition})`);
 
       setIsInitialLoad(true);
       setHasInitialData(false);
@@ -127,12 +127,12 @@ const Index = () => {
       }
 
       if (newTab.id === "dashboard") {
-        console.log("📄 Switching to Operations Dashboard - preparing for data load");
+        console.log("Switching to Operations Dashboard - preparing for data load");
         setData([]);
       }
 
       if (newTab.id === "purchase-analysis") {
-        console.log("📊 Purchase Analysis tab - socket should be disconnected");
+        console.log("Purchase Analysis tab - socket should be disconnected");
       }
 
       if (!isDesktop) {
@@ -159,10 +159,10 @@ const Index = () => {
   }, [streamData, hasInitialData]);
 
   useEffect(() => {
-    console.log(`📊 Active tab is now: ${activeTab} (${currentTab})`);
-    console.log(`🔌 Connection status: ${isConnected ? "Connected" : "Disconnected"}`);
-    console.log(`📅 Date: ${selectedDate}, Today: ${isTodaySelected}`);
-    console.log(`📄 Connection Status: ${connectionStatus}`);
+    console.log(`Active tab is now: ${activeTab} (${currentTab})`);
+    console.log(`Connection status: ${isConnected ? "Connected" : "Disconnected"}`);
+    console.log(`Date: ${selectedDate}, Today: ${isTodaySelected}`);
+    console.log(`Connection Status: ${connectionStatus}`);
   }, [activeTab, currentTab, isConnected, selectedDate, isTodaySelected, connectionStatus]);
 
   // Process metrics - with safe fallbacks

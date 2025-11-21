@@ -14,12 +14,14 @@ const modalStyle = {
   top: "50%",
   left: "50%",
   transform: "translate(-50%, -50%)",
-  backgroundColor: "#fff",
+  backgroundColor: "#1F2937",
   padding: "20px",
   borderRadius: "4px",
   overflow: "hidden",
   width: "50%",
   height: "auto",
+  border: "none",
+  outline: "none"
 };
 
 const closeButtonStyle = {
@@ -27,10 +29,14 @@ const closeButtonStyle = {
   top: "8px",
   right: "8px",
   cursor: "pointer",
+  color: "#9CA3AF",
+  "&:hover": {
+    color: "#06B6D4"
+  }
 };
 
 const fileGridItemStyle = {
-  backgroundColor: "#f0f0f0",
+  backgroundColor: "#374151",
   padding: "10px",
   borderRadius: "4px",
   display: "flex",
@@ -38,6 +44,7 @@ const fileGridItemStyle = {
   alignItems: "center",
   marginBottom: "10px",
   width: "auto",
+  color: "white"
 };
 
 const FileUploadModal = ({ isOpen, onRequestClose, onDrop }) => {
@@ -71,12 +78,12 @@ const FileUploadModal = ({ isOpen, onRequestClose, onDrop }) => {
     const updatedFiles = [...files];
     updatedFiles.splice(index, 1);
     setFiles(updatedFiles);
-    onDrop(updatedFiles);
   };
 
   const closeModal = async (e) => {
     e.preventDefault();
     setFiles([]);
+    setFileSizeError(false);
     onRequestClose();
   };
 
@@ -84,6 +91,7 @@ const FileUploadModal = ({ isOpen, onRequestClose, onDrop }) => {
     if (files && files.length > 0) {
       onDrop(files);
       setFiles([]);
+      setFileSizeError(false);
       onRequestClose();
     }
   };
@@ -95,8 +103,12 @@ const FileUploadModal = ({ isOpen, onRequestClose, onDrop }) => {
       aria-labelledby="file-upload-modal"
     >
       <Box sx={modalStyle}>
-        <CloseIcon sx={closeButtonStyle} onClick={closeModal} />
-        <h2>File Upload</h2>
+        <IconButton sx={closeButtonStyle} onClick={closeModal}>
+          <CloseIcon />
+        </IconButton>
+        <Typography variant="h6" sx={{ color: "white", mb: 2 }}>
+          File Upload
+        </Typography>
         <FileDropzone onDrop={handleDrop} fileSizeError={fileSizeError} />
         {fileSizeError && (
           <Typography variant="body2" color="error" sx={{ marginTop: "8px" }}>
@@ -105,7 +117,9 @@ const FileUploadModal = ({ isOpen, onRequestClose, onDrop }) => {
         )}
         {files.length > 0 && (
           <Grid item xs={12} md={12}>
-            <h3 style={{ marginTop: "20px" }}>Selected Files</h3>
+            <Typography variant="h6" sx={{ color: "white", marginTop: "20px", marginBottom: "10px" }}>
+              Selected Files ({files.length})
+            </Typography>
             <Box
               sx={{
                 maxHeight: "200px",
@@ -114,9 +128,11 @@ const FileUploadModal = ({ isOpen, onRequestClose, onDrop }) => {
             >
               {files.map((file, index) => (
                 <Box key={file.name} sx={fileGridItemStyle}>
-                  <span>{file.name}</span>
-                  <IconButton onClick={() => removeFile(index)}>
-                    <DeleteIcon color="error" />
+                  <Typography variant="body2" sx={{ color: "white" }}>
+                    {file.name}
+                  </Typography>
+                  <IconButton onClick={() => removeFile(index)} size="small">
+                    <DeleteIcon color="error" fontSize="small" />
                   </IconButton>
                 </Box>
               ))}
@@ -128,8 +144,9 @@ const FileUploadModal = ({ isOpen, onRequestClose, onDrop }) => {
           variant="contained"
           color="primary"
           onClick={uploadFiles}
+          disabled={files.length === 0}
         >
-          Upload
+          Upload {files.length > 0 ? `(${files.length})` : ''}
         </Button>
       </Box>
     </Modal>

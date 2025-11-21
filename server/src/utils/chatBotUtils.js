@@ -72,23 +72,49 @@ Country: ${record.sotV119 || "N/A"}`;
   },
 
   pageview: (record) => {
-    const searchableText = `Page View event on ${record.event_date} by ${
-      scrambleEmail(record.emailId)
-    }
+    const searchableText = `Page View event on ${record.event_date}
 Event Type: page view
-Sub Type: ${record.sotSubType || "N/A"}
-Sub Category: ${record.sotSubCategory || "N/A"}
-URL: ${record.url || "N/A"}
-Country: ${record.sotV119 || "N/A"}`;
+Page Detail: ${record.page_detail || "N/A"}
+Product Category: ${record.product_category || "N/A"}
+Product Sub Category: ${record.product_sub_category || "N/A"}
+Product Name: ${record.product_name || "N/A"}
+Product Description: ${record.product_description || "N/A"}
+Product Price: ${record.product_price || "N/A"}
+Product Rating: ${record.product_rating || "N/A"}
+Product Reviews: ${record.product_reviews || "N/A"}
+Product Availability: ${record.product_availability || "N/A"}`;
 
     const metadata = {
       eventType: "page view",
       date: record.event_date,
-      email: scrambleEmail(record.emailId.toLowerCase()),
-      subType: record.sotSubType,
-      subCategory: record.sotSubCategory,
-      url: record.url,
-      country: record.sotV119,
+      url: record.product_url || record.page_detail,
+      category: record.product_category,
+      subCategory: record.product_sub_category,
+      productName: record.product_name,
+      productDescription: record.product_description,
+      productPrice: record.product_price,
+      productSku: record.product_sku,
+      productId: record.product_id,
+      productAvailability: record.product_availability,
+      productRating: record.product_rating,
+      productReviews: record.product_reviews,
+      productBrand: record.product_brand,
+      // Catalog-specific fields
+      isCatalogView: true,
+      catalogData: {
+        name: record.product_name,
+        category: record.product_category,
+        subCategory: record.product_sub_category,
+        price: record.product_price,
+        availability: record.product_availability,
+        rating: record.product_rating,
+        reviews: record.product_reviews,
+        brand: record.product_brand,
+        id: record.product_id,
+        url: record.product_url,
+        sku: record.product_sku,
+        description: record.product_description
+      }
     };
 
     return { searchableText, metadata };
@@ -119,8 +145,19 @@ Country: ${record.sotV119 || "N/A"}`;
 export function normaliseEventType(raw) {
   if (!raw) return "unknown";
   const lowered = raw.toString().toLowerCase().trim();
-  const compacted = lowered.replace(/\s+/g, "");
-  return EVENT_TYPE_MAP[lowered] ?? EVENT_TYPE_MAP[compacted] ?? compacted;
+  
+  // Direct mapping for common variations
+  if (lowered === 'page view' || lowered === 'pageview') {
+    return "pageview";
+  }
+  if (lowered === 'purchase' || lowered === 'buy') {
+    return "purchase";
+  }
+  if (lowered === 'search' || lowered === 'query') {
+    return "search";
+  }
+  
+  return lowered;
 }
 
 export function extractTopKFromQuery(query) {

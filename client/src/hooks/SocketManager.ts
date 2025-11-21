@@ -56,7 +56,7 @@ class SocketManager {
     this.handlers = handlers;
 
     if (!this.socket) {
-      console.log("🔌 Initializing WebSocket connection:", this.config.baseUrl);
+      console.log("Initializing WebSocket connection:", this.config.baseUrl);
 
       this.socket = io(this.config.baseUrl!, {
         transports: ["websocket", "polling"],
@@ -93,7 +93,7 @@ class SocketManager {
     });
 
     this.socket.on(SocketEvents.DISCONNECT, (reason: string) => {
-      console.log("🔌 Disconnected from server:", reason);
+      console.log("Disconnected from server:", reason);
       this.state.isConnected = false;
       this.metrics.totalDisconnections++;
       this.metrics.lastDisconnectedAt = new Date();
@@ -147,7 +147,7 @@ class SocketManager {
     });
 
     this.socket.on(SocketEvents.DATE_CHANGED, (data: { date: string }) => {
-      console.log("📅 Date changed to:", data.date);
+      console.log("Date changed to:", data.date);
       this.handlers.onDateChanged?.(data);
     });
 
@@ -175,7 +175,7 @@ class SocketManager {
       return;
     }
 
-    console.log("🔌 Connecting socket...");
+    console.log("Connecting socket...");
     this.socket.connect();
   }
 
@@ -184,7 +184,7 @@ class SocketManager {
    */
   public disconnect(): void {
     if (this.socket?.connected) {
-      console.log("🔌 Disconnecting socket...");
+      console.log("Disconnecting socket...");
       this.socket.disconnect();
     }
   }

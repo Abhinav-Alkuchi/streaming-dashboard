@@ -40,3 +40,74 @@
 .read-the-docs {
   color: #888;
 }
+
+
+/* Refresh icon spin animation */
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.spin-animation {
+  animation: spin 1s linear infinite;
+}
+
+/* Status indicator styles */
+.status-indicator {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.status-indicator.todo {
+  background-color: #f5f5f5;
+  color: #666;
+}
+
+.status-indicator.in-progress {
+  background-color: #fff3e0;
+  color: #ff9800;
+}
+
+.status-indicator.resolved {
+  background-color: #e3f2fd;
+  color: #2196f3;
+}
+
+.status-indicator.done {
+  background-color: #e8f5e9;
+  color: #4caf50;
+}
+
+/* Progress bar styles */
+.progress-container {
+  width: 100%;
+  min-width: 120px;
+}
+
+.progress-bar {
+  height: 8px;
+  background-color: #e0e0e0;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  transition: width 0.3s ease;
+}
+
+.progress-text {
+  font-size: 0.75rem;
+  margin-top: 4px;
+  text-align: center;
+  font-weight: 500;
+}

@@ -22,7 +22,7 @@ const FileDropzone = ({ onDrop, fileSizeError }) => {
           <div {...getRootProps()} style={dropzoneStyles}>
             <input {...getInputProps()} />
             <CloudUploadIcon
-              style={{ padding: "5px", fontSize: 50, color: "#27272a" }}
+              style={{ padding: "5px", fontSize: 50, color: "#fff" }}
             />
             <p>Drag 'n' drop some files here, or click to select files</p>
           </div>
